@@ -40,14 +40,14 @@ class Image:
 
         return cv2.resize(img, dim, interpolation=cv2.INTER_AREA)
 
-    def decompose(self, img):
+    def decompose(self, img, name):
         img = cv2.cvtColor(img, cv2.COLOR_BGR2Lab).astype('float32')
         L, A, B = cv2.split(img)
 
-        cv2.imwrite('tmp/cielab.png', img)
-        cv2.imwrite('tmp/test1.png', L)
-        cv2.imwrite('tmp/test2.png', A)
-        cv2.imwrite('tmp/test3.png', B)
+        cv2.imwrite(f'tmp/{name}_cielab.png', img)
+        cv2.imwrite(f'tmp/{name}_test1.png', L)
+        cv2.imwrite(f'tmp/{name}_test2.png', A)
+        cv2.imwrite(f'tmp/{name}_test3.png', B)
 
         return L, A, B
 

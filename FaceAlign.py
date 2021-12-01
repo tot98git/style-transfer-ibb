@@ -70,6 +70,7 @@ class FaceAlign:
 
         dst = cv2.bitwise_and(face, face, mask=src_mask)
 
+        cv2.imwrite('tmp/dst.png', dst)
         return landmarks[0], face, landmarks_target
 
     @staticmethod
