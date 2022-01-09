@@ -55,8 +55,7 @@ class FaceAlign:
                 min_detection_confidence=0.5) as face_mesh:
 
             # Convert the BGR image to RGB before processing.
-            results = face_mesh.process(
-                cv2.cvtColor(face, cv2.COLOR_BGR2RGB))
+            results = face_mesh.process(cv2.cvtColor(face, cv2.COLOR_BGR2RGB))
 
             for face_landmarks in results.multi_face_landmarks:
 
@@ -70,7 +69,7 @@ class FaceAlign:
 
         dst = cv2.bitwise_and(face, face, mask=src_mask)
 
-        cv2.imwrite('tmp/dst.png', dst)
+        cv2.imwrite('tmp/fc.png', dst)
         return landmarks[0], face, landmarks_target
 
     @staticmethod
@@ -89,7 +88,7 @@ class FaceAlign:
         tshape = tshape.reshape(1, -1, 2)
 
         good_matches = [cv2.DMatch(i, i, 0)
-                        for i in range(300)]
+                        for i in range(len(sshape[0])-10)]
 
         tps.estimateTransformation(sshape, tshape, good_matches)
 

@@ -2,27 +2,27 @@ import cv2
 import numpy as np
 from FaceAlign import FaceAlign
 from Image import Image
-from utils import alpha_blend, get_detail_layer, skin_detail_transfer, transform_with_mask
+from utils import alpha_blend, laplacian_blend, get_detail_layer, test_blend, skin_detail_transfer, transform_with_mask
 from indices import FACE
 
 
 class StyleTransfer:
     def main(self):
         example_src = "poses/no_makeup.jpeg"
-        target_src = "poses/makeup_hanna.jpeg"
+        target_src = "poses/makeup3.jpeg"
 
         f1 = Image(example_src)
         f2 = Image(target_src)
 
         WORKING_DIM = (500, 500)
-        BLENDING_RATIO = .5
+        BLENDING_RATIO = 1
 
         DETAIL_POWER_1 = .7
-        DETAIL_POWER_2 = .2
-        f1_f = f1.process_face()
+        DETAIL_POWER_2 = .3
+        f1_f = f1.process_face(1.1)
         f1_f = f1.resize_img(WORKING_DIM, f1_f)
 
-        f2_f = f2.process_face()
+        f2_f = f2.process_face(1.1)
         f2_f = f2.resize_img(WORKING_DIM, f2_f)
 
         fa = FaceAlign()
@@ -34,8 +34,8 @@ class StyleTransfer:
         f1_L, f1_A, f1_B = f1.decompose(face1, "face1")
         f2_L, f2_A, f2_B = f2.decompose(warped_img, "face2")
 
-        f1_large_scale, f1_detail = get_detail_layer(f1_L)
-        f2_large_scale, f2_detail = get_detail_layer(f2_L)
+        f1_large_scale, f1_detail = get_detail_layer(f1_L, 10)
+        f2_large_scale, f2_detail = get_detail_layer(f2_L, 100)
 
         landmarks_target = np.int32(landmarks_target)
         landmarks_source = np.int32(landmarks_source)
