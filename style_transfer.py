@@ -95,7 +95,7 @@ class StyleTransfer:
 
         return isolated_orig_face, isolated_test_face
 
-    def transform(self, path="", blending_ratio=1, detail_power_1=.4, detail_power_2=.5):
+    def transform(self, path="", mode="write", blending_ratio=1, detail_power_1=.4, detail_power_2=.5):
         """
             Core transforming method.
         """
@@ -126,10 +126,12 @@ class StyleTransfer:
         isolated_transformation = cv2.bitwise_or(
             img, img, mask=self.src_mask)
 
-        cv2.imwrite(f"{path}.png", isolated_transformation)
-
         transformed = self.f1.apply_transformation(img, self.face_mask)
-        cv2.imwrite(f"{path}_complete.png", transformed)
+
+        if mode == "write":
+            cv2.imwrite(f"{path}.png", isolated_transformation)
+
+            cv2.imwrite(f"{path}_complete.png", transformed)
 
         return transformed
 

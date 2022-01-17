@@ -2,6 +2,8 @@ import cv2
 from motion import MotionDetector
 from style_transfer import StyleTransfer
 from threading import Thread
+import sys
+import getopt
 
 
 class RealtimeTransfer():
@@ -13,17 +15,25 @@ class RealtimeTransfer():
         self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, H)
 
         cv2.namedWindow('BGR')
-        cv2.createTrackbar("Blending", "BGR", 0, 100, self.null)
-        cv2.createTrackbar("Detail", "BGR", 0, 100, self.null)
+        self.B = 0
+        self.G = 0
+        cv2.createTrackbar("Blending", "BGR", self.B,
+                           100, self.set_sliders('B'))
+        cv2.createTrackbar("Detail", "BGR", self.G, 100, self.set_sliders('G'))
         self.st = StyleTransfer()
         self.st.initialize_reference(src)
         self.grabbed, self.frame = self.cap.read()
-        self.t = Thread(target=self.update, args=())
-        self.t.daemon = True  # daemon threads run in background
+        #self.t = Thread(target=self.update, args=())
+        # self.t.daemon = True  # daemon threads run in background
 
-    @staticmethod
-    def null(x):
-        pass
+    def set_sliders(self, name):
+        def _set_sliders(val):
+            if name == "B":
+                self.B = val
+            else:
+                self.G = val
+
+        return _set_sliders
 
     def start(self):
         self.stopped = False
@@ -51,11 +61,9 @@ class RealtimeTransfer():
         while True:
             _, image = self.cap.read()
             isMoving = self.detector.detect(image)
-            b = cv2.getTrackbarPos('Blending', 'BGR')
-            d = cv2.getTrackbarPos('Detail', 'BGR')
-
-            b = b / 100
-            d = d / 100
+            print(self.B, self.G)
+            b = self.B / 100
+            d = self.G / 100
 
             if isMoving:
                 try:
@@ -63,7 +71,7 @@ class RealtimeTransfer():
                     self.st.warp_img('affine')
                     self.st.process_reference_layers()
 
-                    image = self.st.transform()
+                    image = self.st.transform("", "", b, d, 1 - d)
                 except:
                     print('bla')
 
@@ -72,7 +80,35 @@ class RealtimeTransfer():
                 break
         self.cap.release()
 
+    def main(self, argv):
+        ref = "poses/makeup_tryon.jpeg"
+
+        opts, args = getopt.getopt(
+            argv,
+            "a:g:s:r:w:d:p",
+            [
+                "alpha=",
+                "gamma=",
+                "ref=",
+            ],
+        )
+
+        for curr_opt, curr_arg in opts:
+            if curr_opt == "-a" or curr_opt == "--alpha":
+                alpha = float(curr_arg)
+                self.B = alpha * 100
+
+            if curr_opt == "-g" or curr_opt == "--gamma":
+                gamma = float(curr_arg)
+                self.G = gamma * 100
+
+            if curr_opt == "--ref":
+                ref = curr_arg
+
+        self.st.initialize_reference(ref)
+        self.transfer()
+
 
 if __name__ == "__main__":
     rt = RealtimeTransfer("poses/makeup_tryon.jpeg")
-    rt.transfer()
+    rt.main(sys.argv[1:])
