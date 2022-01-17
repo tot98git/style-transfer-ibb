@@ -1,0 +1,1378 @@
+INFO:root:Logging results for AF1198
+INFO:root:Ratio=1, original=0.7835255918935787.0.7769782178245408.0.7370035418234598.0.6928368482962527.0.6720207065507166, ex=0.5488309135598715.0.5715690565642388.0.5909508071332631.0.6052825108555152.0.6102316810786547
+INFO:root:Logging results for AF1950
+INFO:root:Ratio=1, original=0.7760094285276922.0.7721009303739733.0.7500199876908011.0.719253935955083.0.6991540105957731, ex=0.6184127799215683.0.6361881765656605.0.6494601900509333.0.6566728819324045.0.6570450510369085
+INFO:root:Logging results for AF1366
+INFO:root:Ratio=1, original=0.809231490950357.0.7947586761894049.0.7326107265676326.0.6516714607834905.0.6347221746755156, ex=0.5115924934887349.0.5270982336779099.0.5381033602754788.0.5423439907717608.0.5434747997858791
+INFO:root:Logging results for AF1968
+INFO:root:Ratio=1, original=0.7814204758755823.0.7708084022701351.0.7412558296947575.0.713122895995317.0.6924714218257946, ex=0.5806317207895835.0.5958228397256639.0.6007155577011764.0.6037882239215763.0.601070352169085
+INFO:root:Logging results for AF1359
+INFO:root:Ratio=1, original=0.7660207655731565.0.7624786947797327.0.7399571633441492.0.707603568700374.0.6905729587916857, ex=0.5568586359984095.0.5789617919812601.0.5982204840303821.0.6125134847468442.0.6170245183649453
+INFO:root:Logging results for AF1162
+INFO:root:Ratio=1, original=0.7880788927349597.0.8002198031307134.0.6610981246563892.0.5898363888424472.0.5693033696176256, ex=0.5603207881698808.0.576997695425059.0.5670169202296671.0.5263319799984126.0.5167412110309964
+INFO:root:Logging results for AF802
+INFO:root:Ratio=1, original=0.7917652464628194.0.7980862846731909.0.7737232564539259.0.7252451030905053.0.700379789992782, ex=0.5925928726948627.0.6221838676331058.0.6485468289337205.0.6632985280243903.0.664213112970263
+INFO:root:Logging results for AF233
+INFO:root:Ratio=1, original=0.7959606659072357.0.7864708497037841.0.7536209081525621.0.7084883703875945.0.6817859704026358, ex=0.5802665037196909.0.6050968445871981.0.6264056700010324.0.6421578751882535.0.6477713430777119
+INFO:root:Logging results for AF1165
+INFO:root:Logging results for AF1165
+INFO:root:Logging results for AF805
+INFO:root:Logging results for AF1992
+INFO:root:Logging results for AF234
+INFO:root:Logging results for AF1165
+INFO:root:Logging results for AF805
+INFO:root:Logging results for AF1992
+INFO:root:Logging results for AF1165
+INFO:root:Logging results for AF805
+INFO:root:Orig_sim=0.5876941900708547, original=0.7382671714976046.0.7495862311724225.0.7401865126044141.0.7163514231996069.0.703138867226344, ex=0.6273768909069948.0.6483880592128582.0.6658473105879299.0.6761962089601165.0.6797172959621339
+INFO:root:Logging results for AF1992
+INFO:root:Orig_sim=0.5315334147237911, original=0.7811237491745234.0.7810333510898602.0.758024374377956.0.718671952029676.0.696591917915714, ex=0.5620238179224405.0.5924369869086733.0.618255991928561.0.63666821053562.0.6417787685916602
+INFO:root:Logging results for AF234
+INFO:root:Logging results for AF805
+INFO:root:Orig_sim=0.5876941900708547, original=0.7382671714976046.0.7495862311724225.0.7401865126044141.0.7163514231996069.0.703138867226344, ex=0.6273768909069948.0.6483880592128582.0.6658473105879299.0.6761962089601165.0.6797172959621339
+INFO:root:Logging results for AF1992
+INFO:root:Orig_sim=0.5315334147237911, original=0.7811237491745234.0.7810333510898602.0.758024374377956.0.718671952029676.0.696591917915714, ex=0.5620238179224405.0.5924369869086733.0.618255991928561.0.63666821053562.0.6417787685916602
+INFO:root:Logging results for AF234
+INFO:root:Orig_sim=0.5706474145384823, original=0.78624044427811.0.7878351576313535.0.7623190506782556.0.7204427707192026.0.6828790812873403, ex=0.5913720863734739.0.6100491326622165.0.6245317435211567.0.6332224533825827.0.6269931196023883
+INFO:root:Logging results for AF409
+INFO:root:Orig_sim=0.5963164678658988, original=0.8028535963807019.0.8066367076116955.0.7952949707755327.0.761869667320485.0.7397307861919677, ex=0.6234031634143116.0.639635921547154.0.6482488919214197.0.6513963632210346.0.657834800014565
+INFO:root:Logging results for AF1767
+INFO:root:Orig_sim=0.5078141861294524, original=0.8070740264157905.0.8030285737335096.0.7823314665807395.0.751889476208566.0.7357900959747375, ex=0.5251360701078596.0.5416107015775585.0.5560498292609598.0.5692232974390294.0.574488478894949
+INFO:root:Logging results for AF431
+INFO:root:Orig_sim=0.6011241622021504, original=0.7721219839037013.0.7738589888351047.0.7605397846925386.0.7352440102756367.0.722358231052378, ex=0.6226715753173799.0.6424695592493911.0.6562465702419354.0.663502438558139.0.6675161947415454
+INFO:root:Logging results for AF1599
+INFO:root:Orig_sim=0.5755804096334299, original=0.7822024399579594.0.7689297339771602.0.7480141853482699.0.7111108533793254.0.6907556731613828, ex=0.6017402974463726.0.6194661515347866.0.6338277757824524.0.6219123693370993.0.6181505291615833
+INFO:root:Logging results for AF1760
+INFO:root:Orig_sim=0.5998707870810751, original=0.8212929112752106.0.8230690347627281.0.7916042674478391.0.6926610852423988.0.6252943477018369, ex=0.6239893312748234.0.6334668956839492.0.6344040086010987.0.5988107387052687.0.5727695253492567
+INFO:root:Logging results for AF635
+INFO:root:Orig_sim=0.5276297667861639, original=0.8008169830982839.0.7924109646842172.0.7043324340721283.0.646402632128342.0.5913124138931801, ex=0.5532246646118075.0.5728423993098115.0.5534153958726709.0.5341459323221388.0.5122251811305464
+INFO:root:Logging results for AF1564
+INFO:root:Orig_sim=0.6016403535809162, original=0.8010003888384626.0.8142425293251906.0.7947481837747387.0.7563308366807103.0.7406872921494324, ex=0.6260598982073217.0.6460451118449363.0.6579253339753633.0.6626784907405407.0.6609464075579132
+INFO:root:Logging results for AF632
+INFO:root:Orig_sim=0.5740680315008495, original=0.7937114539145882.0.7961364783418441.0.780269778192548.0.7500986797692352.0.7316566710439929, ex=0.5939165265688026.0.6129365755472279.0.6218049093621194.0.6268884213156737.0.6286555099807353
+INFO:root:Logging results for AF1164
+INFO:root:Orig_sim=0.561425067428307, original=0.7640853827116159.0.7811418121176104.0.7577962159122221.0.7115520913316301.0.6751242323398335, ex=0.5884805470719393.0.6167295449783841.0.6392240725027056.0.6483423798004512.0.6399856965980678
+INFO:root:Logging results for AF804
+INFO:root:Orig_sim=0.5481054548649941, original=0.7905572040564586.0.7891984858626597.0.768251833122711.0.7275215104237615.0.7076383730618175, ex=0.5735138657465945.0.5986292238876677.0.6188850364126014.0.6273091772111904.0.6290484868928293
+INFO:root:Logging results for AF235
+INFO:root:Orig_sim=0.5834803539498711, original=0.7815162964873336.0.7725433904021172.0.7541329802882291.0.7231877190125173.0.6612780839828996, ex=0.6026575622933377.0.619552639787017.0.6348857229461968.0.6371141374640746.0.6224944400291511
+INFO:root:Logging results for AF1994
+INFO:root:Orig_sim=0.5450976356525078, original=0.7904650658969764.0.7974195333601305.0.7809210885717742.0.7494589538701527.0.7279622283964846, ex=0.5579102437089887.0.5841751101927665.0.601816629943361.0.6098415818964329.0.6103084960876587
+INFO:root:Logging results for AF232
+INFO:root:Orig_sim=0.5055354860134832, original=0.6393466496043851.0.6825482740805827.0.6845676012586845.0.6127591441076902.0.5824077515479703, ex=0.5001968285732348.0.542283398850642.0.5738722812451186.0.5626983534600206.0.5472512599555862
+INFO:root:Logging results for AF1969
+INFO:root:Orig_sim=0.5351405029334871, original=0.7937676207694119.0.7916370904131645.0.7641444608545235.0.7237641031532042.0.7016872212619608, ex=0.5636588716876821.0.5843064611585511.0.6026307319994754.0.6148299814221981.0.6162167754550018
+INFO:root:Logging results for AF1367
+INFO:root:Orig_sim=0.5374800616356527, original=0.7982291926193531.0.7962247442919589.0.7759659167540754.0.7400488580125378.0.7183941798680734, ex=0.565484350424159.0.5847142070894825.0.6008817261705236.0.612923624300363.0.6161714373399998
+INFO:root:Logging results for AF1358
+INFO:root:Orig_sim=0.5429449405946637, original=0.7717381867403499.0.770061341486505.0.7447355123422877.0.7141921358610158.0.6986347422814289, ex=0.5666070940110918.0.5956801623062464.0.6168125417912179.0.629459403247384.0.6324776396336013
+INFO:root:Logging results for AF1956
+INFO:root:Orig_sim=0.5497232948061112, original=0.7885751250916108.0.7876939266994665.0.7653038065576543.0.730780257341122.0.7102819536217657, ex=0.5768614637425392.0.600088538157763.0.61806218744611.0.6308614744102009.0.6361224151986139
+INFO:root:Logging results for AF1360
+INFO:root:Orig_sim=0.6119269686032484, original=0.8144003877000822.0.8192815803507741.0.7879463179133075.0.7546060229750929.0.6494425052240209, ex=0.6292268279708894.0.6536458925167504.0.6677817083806273.0.6708763502959968.0.6141321464536426
+INFO:root:Logging results for AF1951
+INFO:root:Orig_sim=0.5897170483913118, original=0.7345944034580459.0.7638296690187799.0.7493427376122851.0.6995934691538347.0.6825578162580466, ex=0.6095210330416885.0.6431725398888051.0.6622715310494628.0.6652416553940618.0.6650820912512949
+INFO:root:Logging results for AF1199
+INFO:root:Orig_sim=0.5825491333176255, original=0.7414307916937509.0.7802880243902517.0.7679366123203151.0.7376782324839541.0.7214709976295138, ex=0.5848923961561923.0.6286081600134282.0.6517730821840532.0.6607436481293751.0.6617171688390412
+INFO:root:Logging results for AF633
+INFO:root:Orig_sim=0.5324512261059731, original=0.7794222545669824.0.7931980537544039.0.7745577033849037.0.7342449900944582.0.7119987848275423, ex=0.5471375615821482.0.5683686589144267.0.5866209626810319.0.5966805223660422.0.5987227170274333
+INFO:root:Logging results for AF1562
+INFO:root:Orig_sim=0.5335425253098793, original=0.7664610995221585.0.7741569355162349.0.7589274143929492.0.7300047471325354.0.7151420361163519, ex=0.5604709940714546.0.5839806169315878.0.6025475583314984.0.6120780644499432.0.6152436822926813
+INFO:root:Logging results for AF1598
+INFO:root:Orig_sim=0.56209657519376, original=0.8186631135751973.0.8137210346123719.0.7895558378249387.0.7509889179608055.0.7257060620993933, ex=0.5791135837728447.0.6000208220361454.0.6179776744652139.0.6270347423742906.0.6212372391156175
+INFO:root:Logging results for AF430
+INFO:root:Orig_sim=0.5605496181289581, original=0.7880332545042065.0.7874178447673614.0.7634419923069826.0.7234327246592368.0.7032270487605147, ex=0.5792894213110722.0.6019105835871909.0.611515635798807.0.6081986946975739.0.6047616768840807
+INFO:root:Logging results for AF1761
+INFO:root:Orig_sim=0.5629737887987579, original=0.7560653576298303.0.7664191834358788.0.7629138003925311.0.7301971518535334.0.7153728501186446, ex=0.5880666859224886.0.6098053759716726.0.6240525979209269.0.6335331788484989.0.6371002475388446
+INFO:root:Logging results for AF437
+INFO:root:Orig_sim=0.5537525356030368, original=0.8159526283466936.0.8251219778626466.0.8030850417478371.0.7656409251278903.0.743865590009236, ex=0.5763697963562416.0.5967345199685428.0.610792937046219.0.6192359181768309.0.6217356071604069
+INFO:root:Logging results for AF1759
+INFO:root:Orig_sim=0.4809943245396078, original=0.6707157409045342.0.6208879846691214.0.5999523071301643.0.5814633053653383.0.5491439826713008, ex=0.487068967025125.0.49349303815796625.0.4990661599562441.0.5065349178727491.0.49436220136703996
+INFO:root:Logging results for AF1766
+INFO:root:Orig_sim=0.6077734136109406, original=0.7695195704985549.0.7605607040014127.0.5852167063024402.0.48122237823056135.0.4504812526318032, ex=0.633682555415757.0.6495498457824973.0.5313417784098698.0.46338044734761147.0.43105936579885135
+INFO:root:Logging results for AF408
+INFO:root:Orig_sim=0.5605090880033431, original=0.7770427016099606.0.7756648661661053.0.7467627785569947.0.71268220535076.0.6995913307096088, ex=0.5762981769672914.0.5881150781397692.0.5973124946307934.0.6015258664672042.0.6033344884388274
+INFO:root:Logging results for AF1614
+INFO:root:Orig_sim=0.5808770256113257, original=0.8112535334791113.0.812980652738645.0.7894597345273082.0.7567239365461659.0.7396569893262782, ex=0.5995087569070726.0.6227737114980055.0.639214126350442.0.6516190310920106.0.655459022011113
+INFO:root:Logging results for AF545
+INFO:root:Orig_sim=0.5945411328031893, original=0.8145887217499337.0.8125083482356011.0.7868469270017805.0.6392158902462666.0.5405588155008613, ex=0.6106287763250228.0.6292373759138834.0.6437655705199462.0.5839479842715185.0.5092736362836755
+INFO:root:Logging results for AF1613
+INFO:root:Orig_sim=0.5604107172905349, original=0.7565474380694996.0.7751222804491592.0.7568884071874308.0.7239771143368005.0.7049161090417712, ex=0.5751373155075316.0.59878526632179.0.6147423059089391.0.6226625677115679.0.6246528534289074
+INFO:root:Logging results for AF542
+INFO:root:Orig_sim=0.5262532185516798, original=0.7926021440944827.0.7920973581941743.0.7712148517048399.0.7427306880205594.0.7263052082409832, ex=0.5491869525128589.0.5689548237762403.0.5823920549385674.0.5911293086919809.0.5937842319840171
+INFO:root:Logging results for AF784
+INFO:root:Orig_sim=0.5718373659025121, original=0.8011469729764812.0.7964691915284511.0.7753703524602948.0.6643567266497588.0.6589624437934144, ex=0.5964442681959697.0.6143669586759448.0.6274824535820472.0.6094681202241512.0.6066909384553864
+INFO:root:Logging results for AF1417
+INFO:root:Orig_sim=0.5434671635128864, original=0.7443170762160505.0.7337893059545609.0.7163186536314682.0.6929370753111158.0.6725460742954374, ex=0.576873970204748.0.5920738603566686.0.6023538299400917.0.6063125367973569.0.6042632463863481
+INFO:root:Logging results for AF779
+INFO:root:Orig_sim=0.5431730503528102, original=0.764523417607867.0.7745693248476835.0.7557410375363623.0.7289772374311969.0.7108783548746839, ex=0.5651747547559768.0.5846199769957046.0.5991323810673236.0.6099179263539493.0.6086199829418671
+INFO:root:Logging results for AF746
+INFO:root:Orig_sim=0.5345410285269959, original=0.7207203319984398.0.6853068694964302.0.6345044023326758.0.5677831738870558.0.5383290857586225, ex=0.5427112382236643.0.5440656614772487.0.5270967681753843.0.4920739267018705.0.482017767954296
+INFO:root:Logging results for AF1428
+INFO:root:Orig_sim=0.5757027600080212, original=0.8077751022799827.0.8051022014286242.0.7844134197641877.0.6951352143998138.0.5887058810862309, ex=0.598554224314698.0.6114174033532122.0.6231847231266309.0.6071232882124226.0.5438295136057801
+INFO:root:Logging results for AF580
+INFO:root:Orig_sim=0.5410720751357223, original=0.7678542212318531.0.7554538508285655.0.7140994297938669.0.6904052373129773.0.6759996622021749, ex=0.5632318105845954.0.5786535171098293.0.5966375876742362.0.6028702548277393.0.6069114801702665
+INFO:root:Logging results for AF1410
+INFO:root:Orig_sim=0.5377487812749505, original=0.7788326469543412.0.7719149393333099.0.7472010123441911.0.7244360395766053.0.6742148761053719, ex=0.5520137078098101.0.5680390195756116.0.5814884519458486.0.5935612808629136.0.5791214467523107
+INFO:root:Logging results for AF587
+INFO:root:Logging results for AF741
+INFO:root:Logging results for AF385
+INFO:root:Logging results for AF143
+INFO:root:Logging results for AF1823
+INFO:root:Logging results for AF1212
+INFO:root:Logging results for AF144
+INFO:root:Logging results for AF1824
+INFO:root:Logging results for AF382
+INFO:root:Logging results for AF89
+INFO:root:Logging results for AF1215
+INFO:root:Logging results for AF340
+INFO:root:Logging results for AF186
+INFO:root:Logging results for AF74
+INFO:root:Logging results for AF1011
+INFO:root:Logging results for AF971
+INFO:root:Logging results for AF181
+INFO:root:Logging results for AF1029
+INFO:root:Logging results for AF949
+INFO:root:Logging results for AF378
+INFO:root:Logging results for AF976
+INFO:root:Logging results for AF73
+INFO:root:Logging results for AF1411
+INFO:root:Logging results for AF740
+INFO:root:Logging results for AF586
+INFO:root:Logging results for AF1416
+INFO:root:Logging results for AF581
+INFO:root:Logging results for AF1429
+INFO:root:Logging results for AF747
+INFO:root:Logging results for AF1612
+INFO:root:Logging results for AF785
+INFO:root:Logging results for AF543
+INFO:root:Logging results for AF1615
+INFO:root:Logging results for AF544
+INFO:root:Logging results for AF782
+INFO:root:Logging results for AF346
+INFO:root:Logging results for AF1028
+INFO:root:Logging results for AF948
+INFO:root:Logging results for AF180
+INFO:root:Logging results for AF1017
+INFO:root:Logging results for AF977
+INFO:root:Logging results for AF379
+INFO:root:Logging results for AF72
+INFO:root:Logging results for AF187
+INFO:root:Logging results for AF75
+INFO:root:Logging results for AF1010
+INFO:root:Logging results for AF970
+INFO:root:Logging results for AF383
+INFO:root:Logging results for AF88
+INFO:root:Logging results for AF145
+INFO:root:Logging results for AF1214
+INFO:root:Logging results for AF142
+INFO:root:Logging results for AF1822
+INFO:root:Logging results for AF384
+INFO:root:Logging results for AF1213
+INFO:root:Logging results for AF1003
+INFO:root:Logging results for AF66
+INFO:root:Logging results for AF59
+INFO:root:Logging results for AF352
+INFO:root:Logging results for AF61
+INFO:root:Logging results for AF1004
+INFO:root:Logging results for AF964
+INFO:root:Logging results for AF193
+INFO:root:Logging results for AF355
+INFO:root:Logging results for AF1200
+INFO:root:Logging results for AF1664
+INFO:root:Logging results for AF397
+INFO:root:Logging results for AF999
+INFO:root:Logging results for AF151
+INFO:root:Logging results for AF1831
+INFO:root:Logging results for AF1207
+INFO:root:Logging results for AF169
+INFO:root:Logging results for AF1809
+INFO:root:Logging results for AF156
+INFO:root:Logging results for AF1836
+INFO:root:Logging results for AF1238
+INFO:root:Logging results for AF390
+INFO:root:Logging results for AF542
+INFO:root:Orig_sim=0.5262532185516798, original=0.7926021440944827.0.7920973581941743.0.7712148517048399.0.7427306880205594.0.7263052082409832, ex=0.5491869525128589.0.5689548237762403.0.5823920549385674.0.5911293086919809.0.5937842319840171
+INFO:root:Logging results for AF784
+INFO:root:Orig_sim=0.5718373659025121, original=0.8011469729764812.0.7964691915284511.0.7753703524602948.0.6643567266497588.0.6589624437934144, ex=0.5964442681959697.0.6143669586759448.0.6274824535820472.0.6094681202241512.0.6066909384553864
+INFO:root:Logging results for AF1417
+INFO:root:Orig_sim=0.5434671635128864, original=0.7443170762160505.0.7337893059545609.0.7163186536314682.0.6929370753111158.0.6725460742954374, ex=0.576873970204748.0.5920738603566686.0.6023538299400917.0.6063125367973569.0.6042632463863481
+INFO:root:Logging results for AF779
+INFO:root:Orig_sim=0.5431730503528102, original=0.764523417607867.0.7745693248476835.0.7557410375363623.0.7289772374311969.0.7108783548746839, ex=0.5651747547559768.0.5846199769957046.0.5991323810673236.0.6099179263539493.0.6086199829418671
+INFO:root:Logging results for AF746
+INFO:root:Logging results for (0, 'AF542')
+INFO:root:Logging results for (1, 'AF784')
+INFO:root:Logging results for (2, 'AF1417')
+INFO:root:Logging results for (3, 'AF779')
+INFO:root:Logging results for (4, 'AF746')
+INFO:root:Logging results for (5, 'AF1428')
+INFO:root:Logging results for (6, 'AF580')
+INFO:root:Logging results for (7, 'AF1410')
+INFO:root:Logging results for (8, 'AF587')
+INFO:root:Logging results for (9, 'AF741')
+INFO:root:Logging results for (10, 'AF385')
+INFO:root:Logging results for (11, 'AF143')
+INFO:root:Logging results for (12, 'AF1823')
+INFO:root:Logging results for (13, 'AF1212')
+INFO:root:Logging results for (14, 'AF144')
+INFO:root:Logging results for (15, 'AF1824')
+INFO:root:Logging results for (16, 'AF382')
+INFO:root:Logging results for (17, 'AF89')
+INFO:root:Logging results for (18, 'AF1215')
+INFO:root:Logging results for (19, 'AF340')
+INFO:root:Logging results for (20, 'AF186')
+INFO:root:Logging results for (21, 'AF74')
+INFO:root:Logging results for (22, 'AF1011')
+INFO:root:Logging results for (23, 'AF971')
+INFO:root:Logging results for (24, 'AF181')
+INFO:root:Logging results for (25, 'AF1029')
+INFO:root:Logging results for (26, 'AF949')
+INFO:root:Logging results for (27, 'AF378')
+INFO:root:Logging results for (28, 'AF976')
+INFO:root:Logging results for (29, 'AF73')
+INFO:root:Logging results for (30, 'AF1411')
+INFO:root:Logging results for (31, 'AF740')
+INFO:root:Logging results for (32, 'AF586')
+INFO:root:Logging results for (33, 'AF1416')
+INFO:root:Logging results for (34, 'AF581')
+INFO:root:Logging results for (35, 'AF1429')
+INFO:root:Logging results for (36, 'AF747')
+INFO:root:Logging results for (37, 'AF1612')
+INFO:root:Logging results for (38, 'AF785')
+INFO:root:Logging results for (39, 'AF543')
+INFO:root:Logging results for (40, 'AF1615')
+INFO:root:Logging results for (41, 'AF544')
+INFO:root:Logging results for (42, 'AF782')
+INFO:root:Logging results for (43, 'AF346')
+INFO:root:Logging results for (44, 'AF1028')
+INFO:root:Logging results for (45, 'AF948')
+INFO:root:Logging results for (46, 'AF180')
+INFO:root:Logging results for (47, 'AF1017')
+INFO:root:Logging results for (48, 'AF977')
+INFO:root:Logging results for (49, 'AF379')
+INFO:root:Logging results for (50, 'AF72')
+INFO:root:Logging results for (51, 'AF187')
+INFO:root:Logging results for (52, 'AF75')
+INFO:root:Logging results for (53, 'AF1010')
+INFO:root:Logging results for (54, 'AF970')
+INFO:root:Logging results for (55, 'AF383')
+INFO:root:Logging results for (56, 'AF88')
+INFO:root:Logging results for (57, 'AF145')
+INFO:root:Logging results for (58, 'AF1214')
+INFO:root:Logging results for (59, 'AF142')
+INFO:root:Logging results for (60, 'AF1822')
+INFO:root:Logging results for (61, 'AF384')
+INFO:root:Logging results for (62, 'AF1213')
+INFO:root:Logging results for (63, 'AF1003')
+INFO:root:Logging results for (64, 'AF66')
+INFO:root:Logging results for (65, 'AF59')
+INFO:root:Logging results for (66, 'AF352')
+INFO:root:Logging results for (67, 'AF61')
+INFO:root:Logging results for (68, 'AF1004')
+INFO:root:Logging results for (69, 'AF964')
+INFO:root:Logging results for (70, 'AF193')
+INFO:root:Logging results for (71, 'AF355')
+INFO:root:Logging results for (72, 'AF1200')
+INFO:root:Logging results for (73, 'AF1664')
+INFO:root:Logging results for (74, 'AF397')
+INFO:root:Logging results for (75, 'AF999')
+INFO:root:Logging results for (76, 'AF151')
+INFO:root:Logging results for (77, 'AF1831')
+INFO:root:Logging results for (78, 'AF1207')
+INFO:root:Logging results for (79, 'AF169')
+INFO:root:Logging results for (80, 'AF1809')
+INFO:root:Logging results for (81, 'AF156')
+INFO:root:Logging results for (82, 'AF1836')
+INFO:root:Logging results for (83, 'AF1238')
+INFO:root:Logging results for (84, 'AF390')
+INFO:root:Logging results for (85, 'AF592')
+INFO:root:Logging results for (86, 'AF1405')
+INFO:root:Logging results for (87, 'AF595')
+INFO:root:Logging results for (88, 'AF753')
+INFO:root:Logging results for (89, 'AF1402')
+INFO:root:Logging results for (90, 'AF791')
+INFO:root:Logging results for (91, 'AF557')
+INFO:root:Logging results for (92, 'AF568')
+INFO:root:Logging results for (93, 'AF1606')
+INFO:root:Logging results for (94, 'AF550')
+INFO:root:Logging results for (95, 'AF796')
+INFO:root:Logging results for (96, 'AF1601')
+INFO:root:Logging results for (97, 'AF168')
+INFO:root:Logging results for (98, 'AF1808')
+INFO:root:Logging results for (99, 'AF1206')
+INFO:root:Logging results for (100, 'AF157')
+INFO:root:Logging results for (101, 'AF1837')
+INFO:root:Logging results for (102, 'AF1201')
+INFO:root:Logging results for (103, 'AF150')
+INFO:root:Logging results for (104, 'AF1830')
+INFO:root:Logging results for (105, 'AF998')
+INFO:root:Logging results for (106, 'AF60')
+INFO:root:Logging results for (107, 'AF1005')
+INFO:root:Logging results for (108, 'AF965')
+INFO:root:Logging results for (109, 'AF192')
+INFO:root:Logging results for (110, 'AF1002')
+INFO:root:Logging results for (111, 'AF962')
+INFO:root:Logging results for (112, 'AF67')
+INFO:root:Logging results for (113, 'AF58')
+INFO:root:Logging results for (114, 'AF353')
+INFO:root:Logging results for (115, 'AF797')
+INFO:root:Logging results for (116, 'AF551')
+INFO:root:Logging results for (117, 'AF556')
+INFO:root:Logging results for (118, 'AF1638')
+INFO:root:Logging results for (119, 'AF790')
+INFO:root:Logging results for (120, 'AF1607')
+INFO:root:Logging results for (121, 'AF569')
+INFO:root:Logging results for (122, 'AF752')
+INFO:root:Logging results for (123, 'AF594')
+INFO:root:Logging results for (124, 'AF1403')
+INFO:root:Logging results for (125, 'AF593')
+INFO:root:Logging results for (126, 'AF755')
+INFO:root:Logging results for (127, 'AF1404')
+INFO:root:Logging results for (128, 'AF1576')
+INFO:root:Logging results for (129, 'AF618')
+INFO:root:Logging results for (130, 'AF627')
+INFO:root:Logging results for (131, 'AF1549')
+INFO:root:Logging results for (132, 'AF1788')
+INFO:root:Logging results for (133, 'AF620')
+INFO:root:Logging results for (134, 'AF1775')
+INFO:root:Logging results for (135, 'AF424')
+INFO:root:Logging results for (136, 'AF1772')
+INFO:root:Logging results for (137, 'AF423')
+INFO:root:Logging results for (138, 'AF221')
+INFO:root:Logging results for (139, 'AF1987')
+INFO:root:Logging results for (140, 'AF1170')
+INFO:root:Logging results for (141, 'AF810')
+INFO:root:Logging results for (142, 'AF1980')
+INFO:root:Logging results for (143, 'AF1148')
+INFO:root:Logging results for (144, 'AF828')
+INFO:root:Logging results for (145, 'AF226')
+INFO:root:Logging results for (146, 'AF219')
+INFO:root:Logging results for (147, 'AF817')
+INFO:root:Logging results for (148, 'AF1942')
+INFO:root:Logging results for (149, 'AF1373')
+INFO:root:Logging results for (150, 'AF1945')
+INFO:root:Logging results for (151, 'AF1374')
+INFO:root:Logging results for (152, 'AF422')
+INFO:root:Logging results for (153, 'AF1774')
+INFO:root:Logging results for (154, 'AF425')
+INFO:root:Logging results for (155, 'AF1570')
+INFO:root:Logging results for (156, 'AF621')
+INFO:root:Logging results for (157, 'AF1789')
+INFO:root:Logging results for (158, 'AF1548')
+INFO:root:Logging results for (159, 'AF626')
+INFO:root:Logging results for (160, 'AF1944')
+INFO:root:Logging results for (161, 'AF1375')
+INFO:root:Logging results for (162, 'AF1943')
+INFO:root:Logging results for (163, 'AF1372')
+INFO:root:Logging results for (164, 'AF227')
+INFO:root:Logging results for (165, 'AF829')
+INFO:root:Logging results for (166, 'AF1981')
+INFO:root:Logging results for (167, 'AF816')
+INFO:root:Logging results for (168, 'AF218')
+INFO:root:Logging results for (169, 'AF1388')
+INFO:root:Logging results for (170, 'AF220')
+INFO:root:Logging results for (171, 'AF1171')
+INFO:root:Logging results for (172, 'AF811')
+INFO:root:Logging results for (173, 'AF432')
+INFO:root:Logging results for (174, 'AF1763')
+INFO:root:Logging results for (175, 'AF435')
+INFO:root:Logging results for (176, 'AF1764')
+INFO:root:Logging results for (177, 'AF1799')
+INFO:root:Logging results for (178, 'AF631')
+INFO:root:Logging results for (179, 'AF1560')
+INFO:root:Logging results for (180, 'AF636')
+INFO:root:Logging results for (181, 'AF1558')
+INFO:root:Logging results for (182, 'AF1567')
+INFO:root:Logging results for (183, 'AF609')
+INFO:root:Logging results for (184, 'AF1365')
+INFO:root:Logging results for (185, 'AF1954')
+INFO:root:Logging results for (186, 'AF1362')
+INFO:root:Logging results for (187, 'AF1953')
+INFO:root:Logging results for (188, 'AF208')
+INFO:root:Logging results for (189, 'AF806')
+INFO:root:Logging results for (190, 'AF1166')
+INFO:root:Logging results for (191, 'AF1991')
+INFO:root:Logging results for (192, 'AF839')
+INFO:root:Logging results for (193, 'AF1159')
+INFO:root:Logging results for (194, 'AF801')
+INFO:root:Logging results for (195, 'AF1161')
+INFO:root:Logging results for (196, 'AF230')
+INFO:root:Logging results for (197, 'AF1398')
+INFO:root:Logging results for (198, 'AF1559')
+INFO:root:Logging results for (199, 'AF637')
+INFO:root:Logging results for (200, 'AF608')
+INFO:root:Logging results for (201, 'AF1566')
+INFO:root:Logging results for (202, 'AF1102')
+INFO:root:Logging results for (203, 'AF630')
+INFO:root:Logging results for (204, 'AF1798')
+INFO:root:Logging results for (205, 'AF434')
+INFO:root:Logging results for (206, 'AF1765')
+INFO:root:Logging results for (207, 'AF433')
+INFO:root:Logging results for (208, 'AF1762')
+INFO:root:Logging results for (209, 'AF800')
+INFO:root:Logging results for (210, 'AF1160')
+INFO:root:Logging results for (211, 'AF1997')
+INFO:root:Logging results for (212, 'AF1399')
+INFO:root:Logging results for (213, 'AF231')
+INFO:root:Logging results for (214, 'AF807')
+INFO:root:Logging results for (215, 'AF1167')
+INFO:root:Logging results for (216, 'AF236')
+INFO:root:Logging results for (217, 'AF838')
+INFO:root:Logging results for (218, 'AF1158')
+INFO:root:Logging results for (219, 'AF1990')
+INFO:root:Logging results for (220, 'AF1363')
+INFO:root:Logging results for (221, 'AF1952')
+INFO:root:Logging results for (222, 'AF1364')
+INFO:root:Logging results for (223, 'AF1955')
+INFO:root:Logging results for (224, 'AF1827')
+INFO:root:Logging results for (225, 'AF147')
+INFO:root:Logging results for (226, 'AF1229')
+INFO:root:Logging results for (227, 'AF381')
+INFO:root:Logging results for (228, 'AF1216')
+INFO:root:Logging results for (229, 'AF1818')
+INFO:root:Logging results for (230, 'AF178')
+INFO:root:Logging results for (231, 'AF386')
+INFO:root:Logging results for (232, 'AF988')
+INFO:root:Logging results for (233, 'AF140')
+INFO:root:Logging results for (234, 'AF1211')
+INFO:root:Logging results for (235, 'AF182')
+INFO:root:Logging results for (236, 'AF344')
+INFO:root:Logging results for (237, 'AF84')
+INFO:root:Logging results for (238, 'AF1015')
+INFO:root:Logging results for (239, 'AF70')
+INFO:root:Logging results for (240, 'AF48')
+INFO:root:Logging results for (241, 'AF185')
+INFO:root:Logging results for (242, 'AF77')
+INFO:root:Logging results for (243, 'AF972')
+INFO:root:Logging results for (244, 'AF1012')
+INFO:root:Logging results for (245, 'AF1610')
+INFO:root:Logging results for (246, 'AF541')
+INFO:root:Logging results for (247, 'AF787')
+INFO:root:Logging results for (248, 'AF579')
+INFO:root:Logging results for (249, 'AF1617')
+INFO:root:Logging results for (250, 'AF780')
+INFO:root:Logging results for (251, 'AF1628')
+INFO:root:Logging results for (252, 'AF546')
+INFO:root:Logging results for (253, 'AF1413')
+INFO:root:Logging results for (254, 'AF584')
+INFO:root:Logging results for (255, 'AF742')
+INFO:root:Logging results for (256, 'AF1414')
+INFO:root:Logging results for (257, 'AF745')
+INFO:root:Logging results for (258, 'AF583')
+INFO:root:Logging results for (259, 'AF184')
+INFO:root:Logging results for (260, 'AF342')
+INFO:root:Logging results for (261, 'AF49')
+INFO:root:Logging results for (262, 'AF973')
+INFO:root:Logging results for (263, 'AF1013')
+INFO:root:Logging results for (264, 'AF183')
+INFO:root:Logging results for (265, 'AF974')
+INFO:root:Logging results for (266, 'AF1014')
+INFO:root:Logging results for (267, 'AF71')
+INFO:root:Logging results for (268, 'AF141')
+INFO:root:Logging results for (269, 'AF989')
+INFO:root:Logging results for (270, 'AF1210')
+INFO:root:Logging results for (271, 'AF380')
+INFO:root:Logging results for (272, 'AF1826')
+INFO:root:Logging results for (273, 'AF146')
+INFO:root:Logging results for (274, 'AF1819')
+INFO:root:Logging results for (275, 'AF179')
+INFO:root:Logging results for (276, 'AF1217')
+INFO:root:Logging results for (277, 'AF1415')
+INFO:root:Logging results for (278, 'AF582')
+INFO:root:Logging results for (279, 'AF744')
+INFO:root:Logging results for (280, 'AF1412')
+INFO:root:Logging results for (281, 'AF743')
+INFO:root:Logging results for (282, 'AF1616')
+INFO:root:Logging results for (283, 'AF547')
+INFO:root:Logging results for (284, 'AF1629')
+INFO:root:Logging results for (285, 'AF781')
+INFO:root:Logging results for (286, 'AF786')
+INFO:root:Logging results for (287, 'AF540')
+INFO:root:Logging results for (288, 'AF596')
+INFO:root:Logging results for (289, 'AF757')
+INFO:root:Logging results for (290, 'AF591')
+INFO:root:Logging results for (291, 'AF1406')
+INFO:root:Logging results for (292, 'AF768')
+INFO:root:Logging results for (293, 'AF553')
+INFO:root:Logging results for (294, 'AF795')
+INFO:root:Logging results for (295, 'AF792')
+INFO:root:Logging results for (296, 'AF554')
+INFO:root:Logging results for (297, 'AF1605')
+INFO:root:Logging results for (298, 'AF62')
+INFO:root:Logging results for (299, 'AF369')
+INFO:root:Logging results for (300, 'AF967')
+INFO:root:Logging results for (301, 'AF1007')
+INFO:root:Logging results for (302, 'AF958')
+INFO:root:Logging results for (303, 'AF1038')
+INFO:root:Logging results for (304, 'AF356')
+INFO:root:Logging results for (305, 'AF960')
+INFO:root:Logging results for (306, 'AF1000')
+INFO:root:Logging results for (307, 'AF65')
+INFO:root:Logging results for (308, 'AF351')
+INFO:root:Logging results for (309, 'AF197')
+INFO:root:Logging results for (310, 'AF1204')
+INFO:root:Logging results for (311, 'AF1835')
+INFO:root:Logging results for (312, 'AF155')
+INFO:root:Logging results for (313, 'AF393')
+INFO:root:Logging results for (314, 'AF1203')
+INFO:root:Logging results for (315, 'AF394')
+INFO:root:Logging results for (316, 'AF1832')
+INFO:root:Logging results for (317, 'AF152')
+INFO:root:Logging results for (318, 'AF555')
+INFO:root:Logging results for (319, 'AF793')
+INFO:root:Logging results for (320, 'AF552')
+INFO:root:Logging results for (321, 'AF1603')
+INFO:root:Logging results for (322, 'AF590')
+INFO:root:Logging results for (323, 'AF756')
+INFO:root:Logging results for (324, 'AF1407')
+INFO:root:Logging results for (325, 'AF751')
+INFO:root:Logging results for (326, 'AF1400')
+INFO:root:Logging results for (327, 'AF1202')
+INFO:root:Logging results for (328, 'AF1833')
+INFO:root:Logging results for (329, 'AF153')
+INFO:root:Logging results for (330, 'AF395')
+INFO:root:Logging results for (331, 'AF1205')
+INFO:root:Logging results for (332, 'AF99')
+INFO:root:Logging results for (333, 'AF154')
+INFO:root:Logging results for (334, 'AF961')
+INFO:root:Logging results for (335, 'AF1001')
+INFO:root:Logging results for (336, 'AF64')
+INFO:root:Logging results for (337, 'AF196')
+INFO:root:Logging results for (338, 'AF350')
+INFO:root:Logging results for (339, 'AF63')
+INFO:root:Logging results for (340, 'AF1006')
+INFO:root:Logging results for (341, 'AF368')
+INFO:root:Logging results for (342, 'AF357')
+INFO:root:Logging results for (343, 'AF1039')
+INFO:root:Logging results for (344, 'AF191')
+INFO:root:Logging results for (345, 'AF814')
+INFO:root:Logging results for (346, 'AF1174')
+INFO:root:Logging results for (347, 'AF222')
+INFO:root:Logging results for (348, 'AF1984')
+INFO:root:Logging results for (349, 'AF813')
+INFO:root:Logging results for (350, 'AF1946')
+INFO:root:Logging results for (351, 'AF1377')
+INFO:root:Logging results for (352, 'AF1979')
+INFO:root:Logging results for (353, 'AF1189')
+INFO:root:Logging results for (354, 'AF1941')
+INFO:root:Logging results for (355, 'AF1572')
+INFO:root:Logging results for (356, 'AF8')
+INFO:root:Logging results for (357, 'AF623')
+INFO:root:Logging results for (358, 'AF1575')
+INFO:root:Logging results for (359, 'AF624')
+INFO:root:Logging results for (360, 'AF1771')
+INFO:root:Logging results for (361, 'AF420')
+INFO:root:Logging results for (362, 'AF1588')
+INFO:root:Logging results for (363, 'AF418')
+INFO:root:Logging results for (364, 'AF1776')
+INFO:root:Logging results for (365, 'AF1749')
+INFO:root:Logging results for (366, 'AF427')
+INFO:root:Logging results for (367, 'AF1940')
+INFO:root:Logging results for (368, 'AF1188')
+INFO:root:Logging results for (369, 'AF1371')
+INFO:root:Logging results for (370, 'AF1349')
+INFO:root:Logging results for (371, 'AF1947')
+INFO:root:Logging results for (372, 'AF1978')
+INFO:root:Logging results for (373, 'AF1376')
+INFO:root:Logging results for (374, 'AF1985')
+INFO:root:Logging results for (375, 'AF223')
+INFO:root:Logging results for (376, 'AF812')
+INFO:root:Logging results for (377, 'AF1172')
+INFO:root:Logging results for (378, 'AF224')
+INFO:root:Logging results for (379, 'AF1982')
+INFO:root:Logging results for (380, 'AF815')
+INFO:root:Logging results for (381, 'AF1175')
+INFO:root:Logging results for (382, 'AF1777')
+INFO:root:Logging results for (383, 'AF419')
+INFO:root:Logging results for (384, 'AF426')
+INFO:root:Logging results for (385, 'AF1748')
+INFO:root:Logging results for (386, 'AF1770')
+INFO:root:Logging results for (387, 'AF1589')
+INFO:root:Logging results for (388, 'AF421')
+INFO:root:Logging results for (389, 'AF1574')
+INFO:root:Logging results for (390, 'AF625')
+INFO:root:Logging results for (391, 'AF1573')
+INFO:root:Logging results for (392, 'AF279')
+INFO:root:Logging results for (393, 'AF622')
+INFO:root:Logging results for (394, 'AF9')
+INFO:root:Logging results for AF542
+INFO:root:Orig_sim=0.5262532185516798, original=0.7926021440944827.0.7920973581941743.0.7712148517048399.0.7427306880205594.0.7263052082409832, ex=0.5491869525128589.0.5689548237762403.0.5823920549385674.0.5911293086919809.0.5937842319840171
+INFO:root:Logging results for AF784
+INFO:root:Orig_sim=0.5718373659025121, original=0.8011469729764812.0.7964691915284511.0.7753703524602948.0.6643567266497588.0.6589624437934144, ex=0.5964442681959697.0.6143669586759448.0.6274824535820472.0.6094681202241512.0.6066909384553864
+INFO:root:Logging results for AF1417
+INFO:root:Orig_sim=0.5434671635128864, original=0.7443170762160505.0.7337893059545609.0.7163186536314682.0.6929370753111158.0.6725460742954374, ex=0.576873970204748.0.5920738603566686.0.6023538299400917.0.6063125367973569.0.6042632463863481
+INFO:root:Logging results for AF779
+INFO:root:Orig_sim=0.5431730503528102, original=0.764523417607867.0.7745693248476835.0.7557410375363623.0.7289772374311969.0.7108783548746839, ex=0.5651747547559768.0.5846199769957046.0.5991323810673236.0.6099179263539493.0.6086199829418671
+INFO:root:Logging results for AF746
+INFO:root:Orig_sim=0.5345410285269959, original=0.7207203319984398.0.6853068694964302.0.6345044023326758.0.5677831738870558.0.5383290857586225, ex=0.5427112382236643.0.5440656614772487.0.5270967681753843.0.4920739267018705.0.482017767954296
+INFO:root:Logging results for AF1428
+INFO:root:Orig_sim=0.5757027600080212, original=0.8077751022799827.0.8051022014286242.0.7844134197641877.0.6951352143998138.0.5887058810862309, ex=0.598554224314698.0.6114174033532122.0.6231847231266309.0.6071232882124226.0.5438295136057801
+INFO:root:Logging results for AF580
+INFO:root:Orig_sim=0.5410720751357223, original=0.7678542212318531.0.7554538508285655.0.7140994297938669.0.6904052373129773.0.6759996622021749, ex=0.5632318105845954.0.5786535171098293.0.5966375876742362.0.6028702548277393.0.6069114801702665
+INFO:root:Logging results for AF1410
+INFO:root:Orig_sim=0.5377487812749505, original=0.7788326469543412.0.7719149393333099.0.7472010123441911.0.7244360395766053.0.6742148761053719, ex=0.5520137078098101.0.5680390195756116.0.5814884519458486.0.5935612808629136.0.5791214467523107
+INFO:root:Logging results for AF587
+INFO:root:Logging results for AF741
+INFO:root:Orig_sim=0.5847094398389016, original=0.7980488851066337.0.7899272935223044.0.7633998092667803.0.7292335559864731.0.7075720344007405, ex=0.6166695718266336.0.6425008800863529.0.6614548832812401.0.6727167331209342.0.6667036688334433
+INFO:root:Logging results for AF385
+INFO:root:Orig_sim=0.566280828618937, original=0.7294109804705801.0.6056975699956791.0.45938828744375426.0.4438500177133807.0.42869025145041206, ex=0.5692793194788762.0.5397453686594503.0.4450536119471777.0.42923247411038795.0.421247502072545
+INFO:root:Logging results for AF143
+INFO:root:Orig_sim=0.5805121060384227, original=0.7823543957025972.0.7757076611812431.0.7444536021249061.0.7056706460915175.0.6681259480902261, ex=0.613119557894282.0.6422027735747773.0.6608342504797702.0.6572065130619299.0.6499230787863588
+INFO:root:Logging results for AF1823
+INFO:root:Orig_sim=0.5664693992745993, original=0.8145999822811967.0.8160644882216692.0.8049517456626486.0.6945687796923102.0.5872304794040313, ex=0.5921505778146364.0.6083680136022345.0.6229907749022292.0.599294121088492.0.5404785031489167
+INFO:root:Logging results for AF1212
+INFO:root:Orig_sim=0.5808082855475317, original=0.7814113442436553.0.7988020401603381.0.8031312126211986.0.764682773209707.0.701844810077648, ex=0.5921574065786269.0.6148591922263814.0.6362164031607657.0.6318976953240641.0.6061050509082505
+INFO:root:Logging results for AF144
+INFO:root:Orig_sim=0.5485602799104662, original=0.7932868647557004.0.7916531663822773.0.764287715571934.0.7233500615406513.0.7008482577179126, ex=0.5727577448664104.0.6036124916722013.0.63327620438622.0.6533157120823084.0.6591577274760406
+INFO:root:Logging results for AF1824
+INFO:root:Orig_sim=0.5816205494725786, original=0.787874444201908.0.7885965782488885.0.770955652706291.0.7387227677577798.0.7208032880650492, ex=0.6096098651791856.0.6363246039413322.0.6579767483522344.0.6706363555983937.0.672928249171862
+INFO:root:Logging results for AF382
+INFO:root:Orig_sim=0.5344793989680922, original=0.7553831202297995.0.7578332008174749.0.7395787577484709.0.7085645670535671.0.689778477066068, ex=0.5708986600794559.0.5995242006161927.0.6208066789676365.0.6336029837622349.0.6359333321715764
+INFO:root:Logging results for AF89
+INFO:root:Orig_sim=0.5125202599276192, original=0.737942604157761.0.7369028403945244.0.7102194158423699.0.6643288516218617.0.6457927451745852, ex=0.5499581804501675.0.5760568931730868.0.5912105060769699.0.5906929889000837.0.5930398090803917
+INFO:root:Logging results for AF1215
+INFO:root:Orig_sim=0.5227227331507689, original=0.720979625056373.0.7215961544102797.0.7086474912022851.0.6825673163267313.0.6689511141456722, ex=0.5649353673331637.0.5836869193767527.0.5985673922592304.0.6085818517298315.0.6127047420629816
+INFO:root:Logging results for AF340
+INFO:root:Orig_sim=0.5324960777080079, original=0.7245341813160877.0.7236267011204799.0.7119553902029203.0.6872921114103517.0.6444028831539516, ex=0.5525474315436212.0.5754646601449317.0.5969975673494005.0.6111866654921078.0.5927529026364958
+INFO:root:Logging results for AF186
+INFO:root:Orig_sim=0.5370478703061311, original=0.7690828976834045.0.7721231186835528.0.7550148063864858.0.7222449601136085.0.7069819860614107, ex=0.5620194037126041.0.5863801505362894.0.6013973605463554.0.6090285911135566.0.6107763273876561
+INFO:root:Logging results for AF74
+INFO:root:Orig_sim=0.5604517100480807, original=0.7601463856421251.0.7559521266076373.0.7342592758773568.0.7168123150830678.0.6931809432042049, ex=0.5973841351021689.0.6280948492543518.0.6482145696949319.0.6563076355534184.0.6467840570001783
+INFO:root:Logging results for AF1011
+INFO:root:Orig_sim=0.48972719320488234, original=0.6682193860453038.0.7042043863315621.0.6909564667480598.0.6707732134755046.0.653546066208433, ex=0.4957147065554171.0.5115347377784334.0.5374056834546347.0.558910773876565.0.5606232385317261
+INFO:root:Logging results for AF971
+INFO:root:Orig_sim=0.560396161393799, original=0.8339746072474549.0.8335940245279628.0.7478992136541583.0.659468368495725.0.625533264605882, ex=0.5767311303803186.0.5941169457825489.0.5901935827182592.0.5688314176517896.0.564063448258219
+INFO:root:Logging results for AF181
+INFO:root:Orig_sim=0.5349781277471936, original=0.8194641718178266.0.7988575057958922.0.7690529208457996.0.7340481689448071.0.6791201967758053, ex=0.5506651942462705.0.569570516906024.0.5830558959137976.0.590285022166141.0.5738686013190404
+INFO:root:Logging results for AF1029
+INFO:root:Orig_sim=0.529231432321017, original=0.7659921256402896.0.759665605150364.0.7361110134003385.0.701551049423604.0.6837194985035836, ex=0.5613454482072681.0.5806998872779922.0.599421654345053.0.6128554925664611.0.6167788717447508
+INFO:root:Logging results for AF949
+INFO:root:Orig_sim=0.5426333553169619, original=0.7999493123247419.0.798029374245116.0.7735230770585549.0.739426825821052.0.7215194681821885, ex=0.5665542093647123.0.589814051092429.0.6093745760323622.0.6236620410173122.0.6290443736157568
+INFO:root:Logging results for AF378
+INFO:root:Orig_sim=0.5171907674455861, original=0.774991582079998.0.7760277762499013.0.7529182384827965.0.7200449146007509.0.7032245003199669, ex=0.5419829438382864.0.5677412663523759.0.5906903505863149.0.6082873915147679.0.6141390625118909
+INFO:root:Logging results for AF976
+INFO:root:Orig_sim=0.5371418419878098, original=0.77627806701161.0.7934423393881184.0.7545560876122233.0.716728154997003.0.6993118090203808, ex=0.5545521541172076.0.5766113485501241.0.5860874257355778.0.5949338391507705.0.5988581294805192
+INFO:root:Logging results for AF73
+INFO:root:Orig_sim=0.5769902687533751, original=0.8007627555920198.0.7957387056586281.0.7715042186467606.0.7350983428064146.0.7147300156495553, ex=0.5977297302267265.0.6217984120591561.0.6392629051885463.0.6512665201025037.0.6497433791341635
+INFO:root:Logging results for AF1411
+INFO:root:Orig_sim=0.551286155140545, original=0.7866814801024519.0.7810931777107767.0.7055138796855154.0.5460184129585773.0.51889717212071, ex=0.5805319542990285.0.597105635673172.0.5880273863731812.0.503618747475506.0.4849310392500879
+INFO:root:Logging results for AF740
+INFO:root:Orig_sim=0.5486414150194431, original=0.7907131832668131.0.7894145216091722.0.7681296294944154.0.7348168030045409.0.7182710354081436, ex=0.5689343991194952.0.5957972252338933.0.6148247323731103.0.6269910424720123.0.6309189336797024
+INFO:root:Logging results for AF586
+INFO:root:Orig_sim=0.5458095203921917, original=0.8077559312588831.0.752919942920404.0.6552270636329466.0.5624429764481559.0.5295395427179753, ex=0.569988138045486.0.5620740678934282.0.545183227497412.0.5057471867141904.0.48293348341901016
+INFO:root:Logging results for AF1416
+INFO:root:Orig_sim=0.5226712209289514, original=0.7607790637441383.0.7628628507235646.0.7418670711327796.0.7125237893409445.0.6988350677373182, ex=0.5436647479727595.0.5676354890085851.0.5838762746984462.0.5945190380862561.0.5995129385174273
+INFO:root:Logging results for AF581
+INFO:root:Orig_sim=0.5514040323265111, original=0.7974004682755765.0.7875624849526744.0.7502029458212407.0.7064998735008828.0.6809089194895153, ex=0.5665421669799305.0.5874150715582395.0.6053895268472917.0.6132856424318509.0.6175433650787959
+INFO:root:Logging results for AF1429
+INFO:root:Orig_sim=0.5162261467299195, original=0.7746900511265268.0.7737849207526973.0.7527150519062097.0.7146653354278797.0.6934638965019285, ex=0.5414040180820302.0.5736836945116105.0.6052988726195409.0.6277411269675723.0.6360620438248801
+INFO:root:Logging results for AF747
+INFO:root:Orig_sim=0.5464693475828988, original=0.763514546681826.0.7659957310855633.0.7517844832954413.0.719824734660091.0.697054511177858, ex=0.5650336242169057.0.5823591340063637.0.5978828439285876.0.6083915224053632.0.612894881531182
+INFO:root:Logging results for AF1612
+INFO:root:Orig_sim=0.5416464041473829, original=0.7507550115702456.0.7820137258971135.0.7728098312000969.0.7446822127143874.0.7273050020683374, ex=0.562735583400135.0.5939838575556846.0.6133760884434561.0.6302345712813543.0.6364035641783279
+INFO:root:Logging results for AF785
+INFO:root:Orig_sim=0.572019157578381, original=0.8062769629478446.0.8058749774171527.0.7843198350787358.0.7376328124704391.0.7190300471065981, ex=0.5913732474557418.0.6075689811374069.0.6193218023182782.0.6261341334259037.0.6267836663250729
+INFO:root:Logging results for AF543
+INFO:root:Orig_sim=0.5536335107995694, original=0.778053438472337.0.7812818082747387.0.7681394773018217.0.7045355580037738.0.6870182350261173, ex=0.5726732909689796.0.589843025350667.0.6043743385593792.0.6165646108640455.0.6196906221316648
+INFO:root:Logging results for AF1615
+INFO:root:Orig_sim=0.48693427269272166, original=0.8056209773231545.0.804607172905684.0.7685600095054759.0.6856304166739523.0.6106250825398304, ex=0.5097064504542607.0.5283604301190058.0.5457058149301506.0.5447239646949741.0.5207264612122423
+INFO:root:Logging results for AF544
+INFO:root:Orig_sim=0.5802462067199868, original=0.7320165250928786.0.7371032609198038.0.729370636970625.0.6955806173242091.0.6679959108679864, ex=0.612581445396759.0.6454285605181972.0.6732444024953517.0.6857253793949417.0.6637929049755804
+INFO:root:Logging results for AF782
+INFO:root:Orig_sim=0.5310447304744211, original=0.7319260270155142.0.6140652779628285.0.5964036024536851.0.5775284105708852.0.5703673850002541, ex=0.5311846739696952.0.5103848529821188.0.508689142937099.0.5143526219675093.0.5191393778496841
+INFO:root:Logging results for AF346
+INFO:root:Orig_sim=0.5688910878856362, original=0.7988251907914384.0.7917337101078719.0.7613868656668409.0.6686116507639949.0.6518456812276493, ex=0.5852788660017703.0.6028496496658428.0.610662224980227.0.5818837166748297.0.5759667457397396
+INFO:root:Logging results for AF1028
+INFO:root:Orig_sim=0.5831157770122716, original=0.7727290148179596.0.7400955783404912.0.7202906640352711.0.6917519746596529.0.67693603328851, ex=0.6203722080249553.0.6324102898443859.0.6451965027292386.0.6445082467298605.0.6432955872768742
+INFO:root:Logging results for AF948
+INFO:root:Orig_sim=0.5825135030234069, original=0.8045219771060012.0.8143649708553332.0.7953683223594964.0.7592234195079234.0.7396356427746301, ex=0.5997774178085233.0.6220858279847074.0.6407202290606114.0.649209892882619.0.6512123779418606
+INFO:root:Logging results for AF180
+INFO:root:Orig_sim=0.5587079158380188, original=0.7979567483447451.0.7789691621158026.0.7233953349339416.0.6921216314394.0.6805483620421272, ex=0.5743087115577402.0.6013454475342725.0.6147248695960927.0.625006305749679.0.6279658435225065
+INFO:root:Logging results for AF1017
+INFO:root:Orig_sim=0.5798834106471142, original=0.827113711052962.0.8231022135339879.0.7994198877721725.0.7652702238190153.0.7482602094575602, ex=0.6024204622941219.0.6160602050008886.0.6255615029738887.0.6313277407632333.0.633352565000255
+INFO:root:Logging results for AF977
+INFO:root:Orig_sim=0.5239391392075339, original=0.7921083897245279.0.7922159545852554.0.772655811283017.0.7384665475214653.0.7191552969727097, ex=0.5517739084030259.0.5681914256429997.0.5845530229036998.0.5972904551840695.0.6022995626534264
+INFO:root:Logging results for AF379
+INFO:root:Orig_sim=0.5533607946964789, original=0.7471903321934498.0.7486431295079715.0.7328517908664454.0.6934400140573374.0.6597499567033095, ex=0.5807706303948347.0.6076569259998489.0.6232851137960128.0.6154014330285107.0.6031461483420805
+INFO:root:Logging results for AF72
+INFO:root:Orig_sim=0.580052311174013, original=0.8003086433889607.0.7931116356977203.0.7466818297406667.0.7105005813313298.0.6919268445277122, ex=0.6042403399043773.0.6279700356693838.0.6496101351427727.0.6623592057947437.0.6663229367543099
+INFO:root:Logging results for AF187
+INFO:root:Orig_sim=0.5658208433811892, original=0.7812435506338685.0.7857939089025828.0.6545681947351752.0.5780723530993687.0.5393144213059656, ex=0.5856316410373757.0.600691411708425.0.5673437023143734.0.5298260262205852.0.5036249381046652
+INFO:root:Logging results for AF75
+INFO:root:Orig_sim=0.5909210007385012, original=0.7905341336753735.0.7982866287459193.0.7733618041332434.0.740487103826169.0.7215604074029174, ex=0.6163645791263302.0.6363988328917038.0.6510929722428433.0.6603528078067917.0.6594494400456737
+INFO:root:Logging results for AF1010
+INFO:root:Orig_sim=0.6099780862853239, original=0.8182158294416372.0.8239492738048803.0.784615006217987.0.7333567892461205.0.7150421189481216, ex=0.6294943935913481.0.6473838941883218.0.64405414792554.0.6320084887083913.0.6298099357926915
+INFO:root:Logging results for AF970
+INFO:root:Orig_sim=0.5560559657720164, original=0.8003937325280596.0.7943314009568437.0.7776486881582487.0.7286654821163262.0.6292910807690527, ex=0.5772615277626402.0.5928252248379374.0.6074911787914242.0.6042245368593205.0.5597761397868749
+INFO:root:Logging results for AF383
+INFO:root:Orig_sim=0.5908053048655341, original=0.770732556705069.0.7634906770728515.0.7409959093086735.0.7134546280755542.0.717460531592876, ex=0.6088038637092821.0.6330872675107849.0.6528394465513195.0.6631853039124568.0.6867886932880042
+INFO:root:Logging results for AF88
+INFO:root:Orig_sim=0.5848715581180761, original=0.7876441315980661.0.7783084864653395.0.7546938851083271.0.7134484220064651.0.689364612333041, ex=0.6109035262363921.0.6382685550272903.0.6550394523326584.0.6508147529564027.0.6449348589459007
+INFO:root:Logging results for AF145
+INFO:root:Orig_sim=0.5283590759409248, original=0.8035839971062989.0.7954207930759688.0.76956061821521.0.7075142502483635.0.6921588535184493, ex=0.5504489251432516.0.5696683194527353.0.5870033933958508.0.6027551465226441.0.6060538827849625
+INFO:root:Logging results for AF1214
+INFO:root:Orig_sim=0.5721759235839561, original=0.7622304965459668.0.7658902486231772.0.7523868779007189.0.7285358213826235.0.7149687496733946, ex=0.6085756696444706.0.630985744502678.0.650270443340045.0.6616439086407446.0.6637080753695428
+INFO:root:Logging results for AF142
+INFO:root:Orig_sim=0.5949145649584027, original=0.7947269348734175.0.7927428221609679.0.7773618218301142.0.7506352693829705.0.7330999863149055, ex=0.6139905720211151.0.6370327459471926.0.6561972989148641.0.6674479530961639.0.6699454193916691
+INFO:root:Logging results for AF1822
+INFO:root:Orig_sim=0.49400047568569666, original=0.7824132689501342.0.7858710731272499.0.7391978172505107.0.643249795115224.0.6147818527433789, ex=0.5147726318503273.0.5397792470334356.0.5484968729432921.0.5297970527199677.0.5210906022552163
+INFO:root:Logging results for AF384
+INFO:root:Orig_sim=0.5071970521876056, original=0.7737223522671655.0.7781539342650364.0.7654049842074363.0.7380737682054056.0.7206486663319133, ex=0.5278837450081092.0.5469323843688312.0.5628787083973036.0.5768915268078997.0.5796069525424544
+INFO:root:Logging results for AF1213
+INFO:root:Orig_sim=0.5493669428630791, original=0.7513367049446513.0.65880111293297.0.6159997331929724.0.5677910333740416.0.5557673453352954, ex=0.5785680449952285.0.580830913978042.0.5559571668022635.0.5304666810070238.0.5235608406419126
+INFO:root:Logging results for AF1003
+INFO:root:Orig_sim=0.5759748046110474, original=0.8096649230391169.0.7978145976707802.0.7564667160648559.0.7174064824577663.0.6891944859991058, ex=0.6069814537175144.0.6162385164132239.0.6160223650339053.0.6158501904831907.0.6146881406260913
+INFO:root:Logging results for AF66
+INFO:root:Orig_sim=0.5556740349554655, original=0.7735233683792243.0.7721208783968946.0.7393495630954874.0.6815571521206296.0.6604717004623536, ex=0.5763191548443581.0.6039553554600957.0.6167757232138203.0.6079120549840497.0.603231362572238
+INFO:root:Logging results for AF59
+INFO:root:Orig_sim=0.5591747942422954, original=0.76263732997648.0.7568326490694858.0.7391167103545985.0.7129542049073208.0.6985746907104083, ex=0.5880086591836735.0.6089887205961745.0.6252336927759075.0.6355947188352986.0.6378361010240933
+INFO:root:Logging results for AF352
+INFO:root:Orig_sim=0.5583467113104513, original=0.7832037691076786.0.7802993762738387.0.7525268987014496.0.7107223051436099.0.6834280102422142, ex=0.5750133730025322.0.6026591658531535.0.6182053569281646.0.6230186370402174.0.6023403316418504
+INFO:root:Logging results for AF61
+INFO:root:Orig_sim=0.5840462915789784, original=0.8147803563017743.0.8130410458673106.0.7918309749392028.0.759668822939051.0.7410657307991243, ex=0.6038938422889255.0.6324231280197897.0.6562068198423016.0.671137959351853.0.6761473542222807
+INFO:root:Logging results for AF1004
+INFO:root:Orig_sim=0.4899646448896225, original=0.5903457059398839.0.564717425136171.0.5570868400146716.0.5358534825111824.0.5280458120514576, ex=0.4764642592194832.0.47775047693750466.0.48979456062857746.0.4791155381075503.0.478577528888231
+INFO:root:Logging results for AF964
+INFO:root:Orig_sim=0.5376577809810837, original=0.79332626833662.0.785053442822031.0.753442052023348.0.7179944549519227.0.6756052684503056, ex=0.5625568676783614.0.584893167856928.0.6047852017101841.0.6168553753802835.0.5958378553292005
+INFO:root:Logging results for AF193
+INFO:root:Orig_sim=0.5514700845270343, original=0.7954843055275123.0.7837482998342445.0.7549844164986989.0.7142416958098731.0.7006267520718069, ex=0.5808051408536595.0.5998823473984989.0.6116123605225389.0.6083960044853031.0.6061021849535981
+INFO:root:Logging results for AF355
+INFO:root:Orig_sim=0.5680366157720051, original=0.7931358247947798.0.7920723276643956.0.7756717029633243.0.7289180277225142.0.703461789577001, ex=0.5855609866144992.0.6111450750730422.0.6263675256350486.0.6235721156939684.0.6175658409129449
+INFO:root:Logging results for AF1200
+INFO:root:Orig_sim=0.550966325585485, original=0.7274079176252718.0.6940272276560097.0.6427808657595094.0.5882470279082513.0.5511908069663175, ex=0.5540744669231427.0.559633509228922.0.5447616356664859.0.5267713461056819.0.5050908284338526
+INFO:root:Logging results for AF1664
+INFO:root:Logging results for AF397
+INFO:root:Orig_sim=0.5460827997762387, original=0.7510129962084623.0.7328115767862856.0.714359050200765.0.6921672853416224.0.673939296898419, ex=0.5800897614012627.0.5943826082520985.0.6054815441234276.0.6107046355980363.0.6035064117372394
+INFO:root:Logging results for AF999
+INFO:root:Orig_sim=0.5455056398192072, original=0.794638840815633.0.787795760500616.0.7317283090676066.0.6817697705512131.0.6433748295134839, ex=0.5667511213010957.0.5911351513069677.0.6111208592583657.0.6241059449099172.0.6312804160159972
+INFO:root:Logging results for AF151
+INFO:root:Orig_sim=0.5140982274433485, original=0.7685260458222166.0.7679376379850114.0.736273628911248.0.7028104185692868.0.6871291552730003, ex=0.5346742631767505.0.5605733272390315.0.5872123653484866.0.6024247872985524.0.60746957732135
+INFO:root:Logging results for AF1831
+INFO:root:Orig_sim=0.5545605624110284, original=0.7834290881838398.0.777818975818802.0.7591794598826279.0.7315740003868799.0.7152465226047595, ex=0.5851316453285959.0.607177626305894.0.6253933794105613.0.6360576125004515.0.6374269190396132
+INFO:root:Logging results for AF1207
+INFO:root:Orig_sim=0.5042486100906886, original=0.7936642047320118.0.7829473866375114.0.7508905439028908.0.6612580175221344.0.6355216462258996, ex=0.5260007225122411.0.5454245068013501.0.5623651923459091.0.5605496173804091.0.5573604491624192
+INFO:root:Logging results for AF169
+INFO:root:Orig_sim=0.5473482533261832, original=0.8161368716395803.0.8111184610714145.0.787442495880884.0.7533959457362776.0.7171549974948408, ex=0.5678681474310708.0.5868015760229757.0.6003626539678845.0.608652249856048.0.6028559860235407
+INFO:root:Logging results for AF1809
+INFO:root:Orig_sim=0.4704735643915014, original=0.7883262532066545.0.7851591399281931.0.7654889401364313.0.7361623438880273.0.7191414305161171, ex=0.49093337901529105.0.5039457811011371.0.514258462432151.0.5224852812029829.0.5259360387427234
+INFO:root:Logging results for AF156
+INFO:root:Orig_sim=0.5422451813930733, original=0.7430558445131846.0.7359488710414422.0.7162414938879516.0.6880619653387496.0.6722457982222599, ex=0.5777624052956002.0.611451199651608.0.6390847467917744.0.653746518258571.0.658230232340992
+INFO:root:Logging results for AF1836
+INFO:root:Orig_sim=0.5608995084024838, original=0.8118437018770183.0.6946500803443284.0.6311314425891065.0.530385117526977.0.5118762819164676, ex=0.576887859468643.0.5711495670570149.0.5565442030671764.0.5116684726027984.0.5013338222992146
+INFO:root:Logging results for AF1238
+INFO:root:Orig_sim=0.5461498724724565, original=0.6655383463615395.0.6608999500205793.0.6434165701132182.0.6252741244589011.0.6085157901401351, ex=0.5342299200270952.0.5395304875987429.0.545013977629266.0.5520072221406758.0.5454994014561249
+INFO:root:Logging results for AF390
+INFO:root:Orig_sim=0.5994432080970176, original=0.7767726965285723.0.7857626528080205.0.754629824317205.0.6922227906514022.0.6702825497872377, ex=0.6276454180364341.0.6469519158554234.0.6535363882627876.0.6510857705888035.0.6477880624224456
+INFO:root:Logging results for AF592
+INFO:root:Orig_sim=0.5336659377956036, original=0.7912829511523204.0.7899392919767413.0.770600701194687.0.6650830010282552.0.6304747433288543, ex=0.5574230249157298.0.5701747426373663.0.5790870916214441.0.5543585114263077.0.5428061285436806
+INFO:root:Logging results for AF1405
+INFO:root:Logging results for AF595
+INFO:root:Orig_sim=0.5216490120236988, original=0.7658883245271967.0.761644836551529.0.7460747211261202.0.7008402829867828.0.6806468980795364, ex=0.548811482274988.0.5733613184699727.0.5862933280424649.0.5922810038318086.0.5937640005992586
+INFO:root:Logging results for AF753
+INFO:root:Orig_sim=0.5300037360855359, original=0.7448338331283272.0.7578792236331772.0.7459938096426036.0.6596895909276769.0.6168599016117949, ex=0.5432977786291543.0.56628360386771.0.5800408512984839.0.5595154630527391.0.5340825396258628
+INFO:root:Logging results for AF1402
+INFO:root:Orig_sim=0.5898155245501128, original=0.7873303706275668.0.7999555383761519.0.7849170092826802.0.7524908986018651.0.7314404739485904, ex=0.6086345694149594.0.6381545811724718.0.6568766677161911.0.6694541210873218.0.6643015527673439
+INFO:root:Logging results for AF791
+INFO:root:Orig_sim=0.5790507559961328, original=0.781969557650766.0.7682854577734503.0.745773418084176.0.7112228064944665.0.6930040087467377, ex=0.6031857536525577.0.6324984456090249.0.6489330404578405.0.6533954988409381.0.65337417144341
+INFO:root:Logging results for AF557
+INFO:root:Orig_sim=0.5762146615495003, original=0.7516642641328103.0.7412228777088167.0.71748873328145.0.6861952790222045.0.6693408405841949, ex=0.6245929071349837.0.6627143627527338.0.6915154950938317.0.7046394997325062.0.7003479017699686
+INFO:root:Logging results for AF568
+INFO:root:Orig_sim=0.5591678229129712, original=0.7786540339035307.0.7735000484273852.0.7420862547275348.0.7094422493328016.0.6901421242155631, ex=0.5806494548939262.0.602926039593677.0.6183889715654343.0.6305652740171205.0.6346197375380779
+INFO:root:Logging results for AF1606
+INFO:root:Orig_sim=0.5569156480858064, original=0.7800793534905105.0.772253035866388.0.7491328127787055.0.6992496860858001.0.6681328797343383, ex=0.5869967709350047.0.6106381775699795.0.625692510598463.0.6164766845152104.0.606444766792363
+INFO:root:Logging results for AF550
+INFO:root:Orig_sim=0.566748667923162, original=0.7887280597285581.0.7866581046810343.0.7726235974157495.0.7497514261129751.0.7339059391106325, ex=0.6005240453672892.0.6215318914781182.0.6349753891637757.0.6418854933924195.0.6436797589270107
+INFO:root:Logging results for AF796
+INFO:root:Orig_sim=0.5870235726916536, original=0.7495302076347833.0.7497380544481027.0.7379859378435855.0.7156363540057017.0.7015158148031525, ex=0.6195617406972019.0.6488641881934439.0.6690068945857089.0.6771358335172245.0.6779566239483396
+INFO:root:Logging results for AF1601
+INFO:root:Orig_sim=0.5144454477068369, original=0.7108122406465663.0.7373230028880737.0.751253548663318.0.729402020828012.0.7145126534792688, ex=0.5273099986194699.0.5574412171840729.0.5766854801435387.0.5883154416278277.0.5931630564385347
+INFO:root:Logging results for AF168
+INFO:root:Orig_sim=0.5653892986774149, original=0.7859995391012253.0.7835312315980607.0.5624039405858084.0.49175284949395204.0.4641802726603801, ex=0.5781211651177288.0.5951700414230118.0.5277046401017036.0.4686267485211813.0.4456902521781448
+INFO:root:Logging results for AF1808
+INFO:root:Orig_sim=0.5638079644839328, original=0.7623221247070774.0.7673026764348045.0.7543111426628849.0.7156818835445549.0.6163669357325673, ex=0.586517456842071.0.6087714847608673.0.628796164551794.0.6425576460069866.0.5905337720895707
+INFO:root:Logging results for AF1206
+INFO:root:Orig_sim=0.5358120481239993, original=0.781420958155179.0.793003254173812.0.7638402835017964.0.7269850931453831.0.7119135916414825, ex=0.5526224780352328.0.5719463470463416.0.5853340645771884.0.5946178385009092.0.5974749362899817
+INFO:root:Logging results for AF157
+INFO:root:Orig_sim=0.46551222284569355, original=0.7251712496719535.0.6529203566357942.0.6054592719407105.0.553342781570432.0.5413448387983805, ex=0.4828926046923397.0.4888236690223357.0.49557780563858617.0.485118032176838.0.48294633005514126
+INFO:root:Logging results for AF1837
+INFO:root:Orig_sim=0.5433246024325356, original=0.7863336676355299.0.7791640632709256.0.7524176464943197.0.7112659461833012.0.662552766962386, ex=0.5683804509706317.0.5961658360921258.0.6198406146515975.0.638109643785504.0.6256618107280095
+INFO:root:Logging results for AF1201
+INFO:root:Orig_sim=0.507817789297112, original=0.779633620859081.0.7646464222924679.0.7054091679234357.0.6012987834853858.0.5464728744524864, ex=0.5381191058647126.0.5641762545669202.0.561193359724129.0.5259686923479456.0.4914895098969494
+INFO:root:Logging results for AF150
+INFO:root:Orig_sim=0.5700090547575387, original=0.7791767428704807.0.7720265069280613.0.7555831034043609.0.7286779007609102.0.7044651763041992, ex=0.5892745152836166.0.6067368783202282.0.6186827139292578.0.6202492066770798.0.6190998486619915
+INFO:root:Logging results for AF1830
+INFO:root:Orig_sim=0.5240467423277396, original=0.7057847717554716.0.72942359383743.0.7631321546415101.0.7326490758029353.0.7166929814992625, ex=0.5400936438282052.0.5599212058575951.0.580982954674046.0.5929245786018481.0.5944711414824398
+INFO:root:Logging results for AF998
+INFO:root:Orig_sim=0.5524310000231608, original=0.7906468061292031.0.7792218875228681.0.7507950049929314.0.7155402102385566.0.6985708145369357, ex=0.5694132264085494.0.5890922289847763.0.607961946266414.0.6224698214939325.0.6273150286143779
+INFO:root:Logging results for AF60
+INFO:root:Orig_sim=0.5279750292171896, original=0.7658211556389999.0.7475889883836847.0.7145029722536734.0.677442025583078.0.6610572370245182, ex=0.5525224691487188.0.5751921550702846.0.595163122528005.0.603558506756933.0.603368333641725
+INFO:root:Logging results for AF1005
+INFO:root:Orig_sim=0.5838453270167595, original=0.7831427976580528.0.7861135307791551.0.7731239726217463.0.7439774287109708.0.7221583977620311, ex=0.6119264999887538.0.6366865215176915.0.6573743285262602.0.6682937639781122.0.6701995465833619
+INFO:root:Logging results for AF965
+INFO:root:Orig_sim=0.5322725335485871, original=0.7588513776910712.0.7521210361655846.0.6780076103801664.0.6611257430718956.0.6489435739612467, ex=0.5403646022796229.0.5586592411524008.0.559874034069999.0.5668243857937932.0.5674414323368264
+INFO:root:Logging results for AF192
+INFO:root:Orig_sim=0.5573918644659477, original=0.7872415642709618.0.7912453051034736.0.7719847468948021.0.7371502641604718.0.7205980710527801, ex=0.5847887200916954.0.6085375639425724.0.6260540325131992.0.6372048618032083.0.6408651623212448
+INFO:root:Logging results for AF1002
+INFO:root:Orig_sim=0.5343389238462732, original=0.7284428962592289.0.7395669043953813.0.713175287623606.0.6705087819880838.0.6503887992034464, ex=0.5562030813088857.0.5761814591454654.0.589586510071972.0.5996473207710009.0.6036288720114178
+INFO:root:Logging results for AF962
+INFO:root:Orig_sim=0.5222907597912112, original=0.7916017136344785.0.7886644755824622.0.7718183527309721.0.7435750576079917.0.7282467382256468, ex=0.5515656349973168.0.5712225942591472.0.5891145072638696.0.6020041600153879.0.6064602723246416
+INFO:root:Logging results for AF67
+INFO:root:Orig_sim=0.5668457904990634, original=0.7569819016851408.0.7492211297462757.0.7353539115770547.0.720145570786129.0.7015875662213654, ex=0.5804884872668805.0.5944367296732137.0.6052738325416145.0.6133546980489533.0.6116123741583687
+INFO:root:Logging results for AF58
+INFO:root:Orig_sim=0.5524390846175736, original=0.7646696691048369.0.7678592826933298.0.759806868371272.0.732484897254949.0.7167421535314255, ex=0.5800766643725465.0.6053803119364833.0.6246787321254815.0.6348787608142109.0.6386070568213834
+INFO:root:Logging results for AF353
+INFO:root:Orig_sim=0.5238968124509957, original=0.6788523625540427.0.7012286376739437.0.6994403618967486.0.6557014380615848.0.6311520737746313, ex=0.5292785574226481.0.5556179709579183.0.58602157886753.0.5787238414221922.0.5726809296490787
+INFO:root:Logging results for AF797
+INFO:root:Orig_sim=0.5761769779628283, original=0.8036221779978631.0.7943619426828304.0.7640983162884676.0.6791305666271308.0.6061374239392644, ex=0.6024463379379781.0.6202558409446574.0.6364552716558664.0.6006044031080905.0.5734143489183771
+INFO:root:Logging results for AF551
+INFO:root:Orig_sim=0.5558426875441752, original=0.8060884651027774.0.80592618184951.0.787328510246855.0.7512307671050689.0.7302577415667585, ex=0.5770882934833117.0.5917009228050388.0.6040100206985035.0.6121662788377864.0.6140980092280811
+INFO:root:Logging results for AF556
+INFO:root:Orig_sim=0.5884115213990667, original=0.7789484014352044.0.786429685448534.0.7680058782463842.0.73929846103345.0.7224010302201996, ex=0.6216290559815.0.6458307866073429.0.6635260595495641.0.6729763031185964.0.6765428095333949
+INFO:root:Logging results for AF1638
+INFO:root:Orig_sim=0.5437617736581818, original=0.7688161608251164.0.7974092181221604.0.7691321585473156.0.7181034381388337.0.6654894335497217, ex=0.5606737329354413.0.5832388574023738.0.5989828416657065.0.6078872029847701.0.603491053074542
+INFO:root:Logging results for AF790
+INFO:root:Orig_sim=0.5356465973019707, original=0.7315834184454048.0.7358069633830008.0.725599425733109.0.7053963668413274.0.6925606042880205, ex=0.5593286606823131.0.5827858981718347.0.6018648774166944.0.6132244891806719.0.6174391522577362
+INFO:root:Logging results for AF1607
+INFO:root:Orig_sim=0.5850659319536793, original=0.7700196358323645.0.7694836701008728.0.750237269464828.0.5687557746703947.0.5163201129047006, ex=0.6065915006381942.0.6316110924261699.0.6502965677968198.0.5442273684402051.0.5100200057343187
+INFO:root:Logging results for AF569
+INFO:root:Orig_sim=0.5307081913346142, original=0.7684391234773913.0.7419939811966989.0.7136116713577727.0.6817056897072017.0.6238102891290662, ex=0.5576529305351331.0.583491584397056.0.6079839211286219.0.6244908018806741.0.5873603056781539
+INFO:root:Logging results for AF752
+INFO:root:Orig_sim=0.5354949188854962, original=0.7542969866611862.0.7442930986608478.0.721547061610246.0.6876845405180321.0.6635999283032988, ex=0.568460541848801.0.5889290213800921.0.6052582591106256.0.6165725826478082.0.6060466304261021
+INFO:root:Logging results for AF594
+INFO:root:Orig_sim=0.5801601197523786, original=0.8120839869565918.0.8073754832075535.0.7780008821189277.0.7308015244148671.0.7077210765265995, ex=0.6009178662100797.0.6228504063241563.0.6383097781256176.0.6464133681736985.0.6483546098903082
+INFO:root:Logging results for AF1403
+INFO:root:Orig_sim=0.5470665769280091, original=0.7858888159304652.0.746317724673555.0.712589967710973.0.665832784120708.0.6105435186637155, ex=0.5619993111896237.0.5755666980169166.0.5883767686124887.0.5755662008656773.0.5620027950207246
+INFO:root:Logging results for AF593
+INFO:root:Logging results for AF755
+INFO:root:Orig_sim=0.5491928995119847, original=0.7752562674522427.0.7719000556816318.0.668719068593744.0.6115993493276882.0.5691758343973196, ex=0.5675624922140095.0.5855325121495334.0.5767535446572082.0.5530717412207475.0.5296448574343285
+INFO:root:Logging results for AF1404
+INFO:root:Orig_sim=0.5483624939737548, original=0.7935258347075279.0.8045539179958731.0.7956866378129334.0.7627237548792677.0.7478182799731908, ex=0.568622555801225.0.584011506074439.0.5942993044806096.0.5987011505366289.0.6003964746301841
+INFO:root:Logging results for AF1576
+INFO:root:Orig_sim=0.49728578473194046, original=0.7795746317122787.0.7744534043316466.0.754508501973568.0.6636225825878089.0.5926759486302049, ex=0.519676196759882.0.5342950148279811.0.5485765150218204.0.543525569174227.0.5143866861719842
+INFO:root:Logging results for AF618
+INFO:root:Orig_sim=0.5776462887872564, original=0.7717518844384278.0.767879344142735.0.7667153487282392.0.7318095362001684.0.7130498897705356, ex=0.6108232361685559.0.634821393265557.0.637398261333942.0.6423610129122376.0.6432981201094892
+INFO:root:Logging results for AF627
+INFO:root:Orig_sim=0.5577911000524711, original=0.7893753199650299.0.8093900367619292.0.7992760331275038.0.7691696418899033.0.7515284435275885, ex=0.5825322138801509.0.6018407381447918.0.6151031776649577.0.6206134551626507.0.6213095308758496
+INFO:root:Logging results for AF1549
+INFO:root:Orig_sim=0.5787713107038194, original=0.797606290988354.0.7973082463169642.0.7756053220566314.0.7402636862494666.0.7203570606226651, ex=0.602950412132527.0.6300986105704421.0.6486824108006295.0.6587031612546174.0.6599350671463958
+INFO:root:Logging results for AF1788
+INFO:root:Orig_sim=0.5517481968371888, original=0.772208351602664.0.7603869854396961.0.7519207950306471.0.7334229383738119.0.7121187654523018, ex=0.5763574644749655.0.5999210274279703.0.6154338413747458.0.6157449179493137.0.6160546534379573
+INFO:root:Logging results for AF620
+INFO:root:Orig_sim=0.5765951482854388, original=0.7894380362852061.0.7804640518838819.0.7543600255036881.0.7201295199073657.0.7026377263290318, ex=0.6028401352227973.0.630197953263461.0.6528460275132395.0.6679924987024646.0.6747622345103382
+INFO:root:Logging results for AF1775
+INFO:root:Orig_sim=0.5548432540407551, original=0.7827307441545592.0.7799142600414513.0.667491434585088.0.5622601131319112.0.5626462400986189, ex=0.5714013293893019.0.5901658469277288.0.5680194680215956.0.521648872103076.0.5201565928086317
+INFO:root:Logging results for AF424
+INFO:root:Orig_sim=0.5913064324793342, original=0.7890371668301719.0.786979431134676.0.7634298466374512.0.7226691395592487.0.7067005253083495, ex=0.6112970136201524.0.6374705228420687.0.6570509435845755.0.6702352098500638.0.6718975418970348
+INFO:root:Logging results for AF1772
+INFO:root:Orig_sim=0.5558534451322846, original=0.7814042193850829.0.7786058634093919.0.7525216581635507.0.7027457689332741.0.6899273568688394, ex=0.5830241457918044.0.6074865688328464.0.6221367766956326.0.6262738453104518.0.6259413014780933
+INFO:root:Logging results for AF423
+INFO:root:Orig_sim=0.5488720695380135, original=0.7484235553094098.0.6678820456953364.0.610007245341395.0.5381215376551104.0.5161681748283837, ex=0.5557341814419684.0.5480751647254279.0.5315672143550534.0.49085189666804946.0.4723635182331137
+INFO:root:Logging results for AF221
+INFO:root:Orig_sim=0.5981619053241617, original=0.7977278117482215.0.8051231409889348.0.7920811496835247.0.759836819309435.0.740922409282288, ex=0.6286715102651591.0.6550071996608868.0.671472450049032.0.679562909150294.0.6807951462726933
+INFO:root:Logging results for AF1987
+INFO:root:Orig_sim=0.5407601452242919, original=0.7745388852432273.0.8084543234943841.0.717871680911473.0.6650766094262166.0.6545658820936148, ex=0.5459061916222016.0.566419069367281.0.5589168947775595.0.5514782756636677.0.5471254045342718
+INFO:root:Logging results for AF1170
+INFO:root:Orig_sim=0.5197210118281766, original=0.7302336635492258.0.733022343548364.0.7206025952514364.0.6610113516058628.0.622656322881524, ex=0.5382044657626108.0.5618996597975.0.5821812115688273.0.5896094388423668.0.5846189932192204
+INFO:root:Logging results for AF810
+INFO:root:Orig_sim=0.5395599575729705, original=0.7893350637832137.0.7841721457245888.0.7044764359227109.0.6201827696814092.0.5906039757447858, ex=0.5542293049979091.0.5720100780503083.0.5651514994854037.0.5339342067735019.0.5208764173705625
+INFO:root:Logging results for AF1980
+INFO:root:Orig_sim=0.5366559609388456, original=0.7605778042088319.0.7541813833382175.0.7359298157774425.0.7027475633564116.0.6786860026033851, ex=0.5642082506619552.0.5955468136778114.0.6190354885392237.0.6342510807053711.0.6304525588867136
+INFO:root:Logging results for AF1148
+INFO:root:Orig_sim=0.6054958293343559, original=0.8298936650829204.0.8214832207785546.0.6886409858762502.0.633993875391671.0.6193816965378584, ex=0.624964406354299.0.6473728047365898.0.6122529034321222.0.587991396123731.0.5839023439042665
+INFO:root:Logging results for AF828
+INFO:root:Orig_sim=0.5900547017998458, original=0.7631064791417682.0.7536001447662343.0.7285195324918403.0.6987517851477341.0.6829507473281288, ex=0.6242109719192861.0.6481547044734407.0.6630034745896933.0.6666608269583835.0.664387878575969
+INFO:root:Logging results for AF226
+INFO:root:Orig_sim=0.5299677229908833, original=0.7292055818501222.0.72139405734116.0.6967488834066686.0.6601040227885259.0.6483947453356289, ex=0.5593029432890745.0.5840128439865048.0.604219165416836.0.6186625222939104.0.6199449132223974
+INFO:root:Logging results for AF219
+INFO:root:Orig_sim=0.5388906741345052, original=0.7625111129509792.0.7602928625136737.0.7306314642812038.0.6806310889734407.0.6395934786819648, ex=0.558554975688063.0.5835170977517253.0.6005291872729791.0.6076604167113102.0.5879115540510909
+INFO:root:Logging results for AF817
+INFO:root:Orig_sim=0.577973917853846, original=0.7941034705506023.0.7849080633285969.0.7624611107713383.0.7343037473506792.0.6078190282809548, ex=0.6035650950088692.0.6266946538667205.0.6452494566548207.0.6557767932297097.0.5853149725717784
+INFO:root:Logging results for AF1942
+INFO:root:Orig_sim=0.5419016374080707, original=0.7881044571571367.0.7168917167641954.0.6149429810401433.0.5752606806477362.0.5599296915507826, ex=0.5754450950299461.0.5738837524231345.0.5280329202377588.0.5115969469542422.0.5031716700296919
+INFO:root:Logging results for AF1373
+INFO:root:Orig_sim=0.5862085509652006, original=0.8246391435546272.0.8216911065675863.0.8001002924539001.0.6148841064620786.0.6022795480966003, ex=0.6024917598658895.0.622488634999724.0.6380148842968278.0.5722303852484597.0.5504415693145817
+INFO:root:Logging results for AF1945
+INFO:root:Orig_sim=0.5405617536486521, original=0.765001422855042.0.7659722661050123.0.7464642923221692.0.7140706388367457.0.6956019734289137, ex=0.5833489993300103.0.6086548326035213.0.6306738734815555.0.6472583090337457.0.6521197202950415
+INFO:root:Logging results for AF1374
+INFO:root:Orig_sim=0.5603399285106317, original=0.8021574543967557.0.8005077955617401.0.7743591748497206.0.7294145853574054.0.6913131753501188, ex=0.5900871534452303.0.6019602215430422.0.6140905259817345.0.6260482508866475.0.616549562514802
+INFO:root:Logging results for AF422
+INFO:root:Orig_sim=0.5773946934681554, original=0.7386061337752993.0.7673386694384768.0.7498402440182698.0.6831455857566188.0.6651516003301657, ex=0.5987988843622657.0.6347329261095161.0.6514550889699239.0.6354951381598116.0.629324432871582
+INFO:root:Logging results for AF1774
+INFO:root:Orig_sim=0.5421125362833815, original=0.7694609108778995.0.763573160219286.0.7413739280832448.0.7048028421592872.0.6855328271292133, ex=0.5675234952822503.0.5931156846429824.0.6180405627706163.0.6377164194364154.0.6466393189568472
+INFO:root:Logging results for AF425
+INFO:root:Orig_sim=0.5550205539733745, original=0.7563699171607713.0.7638426339986842.0.7513105442993367.0.7033217205702469.0.6868009689560545, ex=0.5842913824666046.0.6049306360223569.0.6233144338448706.0.6323710461803709.0.6248759719638375
+INFO:root:Logging results for AF1570
+INFO:root:Orig_sim=0.5473694154414249, original=0.8160512119155156.0.8054958797172495.0.7814341501882066.0.7490211680015216.0.7325092827805083, ex=0.5665165834447045.0.5893437906988981.0.6090153661804627.0.6221621178196658.0.6265977832976387
+INFO:root:Logging results for AF621
+INFO:root:Orig_sim=0.5520873412091184, original=0.7694870167178239.0.7679198414244112.0.745576063425975.0.7070735150595637.0.6756072903755092, ex=0.5747953208932306.0.6007501442990489.0.623623422741202.0.6401597388692037.0.6312781160152151
+INFO:root:Logging results for AF1789
+INFO:root:Orig_sim=0.5242782117647908, original=0.7717531112939593.0.767175204223783.0.7395332254003661.0.7052323809652868.0.6875041775853082, ex=0.5437282098342623.0.561229614466234.0.5808070677841557.0.5985413877378397.0.606569602563524
+INFO:root:Logging results for AF1548
+INFO:root:Orig_sim=0.5201438635985931, original=0.7608162272947986.0.7710632396928059.0.7011312369451265.0.6678276844940747.0.6514309071055427, ex=0.5432877992769912.0.5706687945433041.0.5742596102529948.0.5739054526924717.0.5713658823106642
+INFO:root:Logging results for AF626
+INFO:root:Orig_sim=0.5574525301112178, original=0.8207609922949471.0.815368042328345.0.7691830362855395.0.7266904732659256.0.7016415510878495, ex=0.5781203550444259.0.5970670467498699.0.6059532543040365.0.6059690328292474.0.6033842489314106
+INFO:root:Logging results for AF1944
+INFO:root:Orig_sim=0.5688775265869938, original=0.7511009403960457.0.7569065259919813.0.7490871133837701.0.7178382977207282.0.6918804627165285, ex=0.6015111247348717.0.625496060636862.0.6449969068458435.0.6499768002312184.0.6513766311915545
+INFO:root:Logging results for AF1375
+INFO:root:Orig_sim=0.5012902800096436, original=0.7371227057618102.0.7311631294669039.0.696919910929959.0.6578938719302514.0.6298862377078381, ex=0.5295821731059608.0.5540834679812395.0.5743806012119882.0.5827507456805232.0.5808268875190771
+INFO:root:Logging results for AF1943
+INFO:root:Orig_sim=0.5357245048672828, original=0.7991812166263496.0.7886570391742725.0.7312408303087211.0.5855303388438716.0.5325241190717706, ex=0.5603135567717034.0.5706738406798155.0.5738748195346545.0.5152958460795812.0.4897666005846773
+INFO:root:Logging results for AF1372
+INFO:root:Orig_sim=0.5008318314022212, original=0.7702181081605431.0.7787490018581628.0.75926913298379.0.6469959571871163.0.6316909912659424, ex=0.5284875831620401.0.5464977925849751.0.5628565592754609.0.5404483864117582.0.5590408922410767
+INFO:root:Logging results for AF227
+INFO:root:Orig_sim=0.5746517873167086, original=0.792838391484851.0.66402213133883.0.5884046226442777.0.5037384109322395.0.49569345908188267, ex=0.5988438643547261.0.5662702472757158.0.5287405170788047.0.4736592065091599.0.4667800738402604
+INFO:root:Logging results for AF829
+INFO:root:Orig_sim=0.54193572052418, original=0.7210749505597399.0.6633100855812366.0.6377945942750164.0.6243208317811952.0.6142727652316046, ex=0.5625964363063329.0.5605765607605431.0.5723126806093405.0.5824099437563401.0.5854709834935672
+INFO:root:Logging results for AF1981
+INFO:root:Orig_sim=0.551473066477131, original=0.761896982064334.0.7807739434996531.0.7851454141137388.0.75478957496738.0.7380231602487045, ex=0.5608306610841016.0.5772821584893489.0.5956796613911007.0.6043785584487971.0.6082714491551137
+INFO:root:Logging results for AF816
+INFO:root:Orig_sim=0.5469062060301072, original=0.8194600772882542.0.8136482056679245.0.7900631766390847.0.7547111675875633.0.7366356728619735, ex=0.5652524423889514.0.5800680083381041.0.5914250724246193.0.5975860864533834.0.6007375047821575
+INFO:root:Logging results for AF218
+INFO:root:Orig_sim=0.5905290245643778, original=0.7852200205333347.0.7716420148530118.0.7343094814297334.0.6957133755071848.0.6774182673411192, ex=0.6218929180648284.0.653052216619602.0.68240515829504.0.6833029156650111.0.6703379047670741
+INFO:root:Logging results for AF1388
+INFO:root:Orig_sim=0.5493414587854606, original=0.8091137558865767.0.8083375297326999.0.7884522018188184.0.753494727168512.0.6791457513809642, ex=0.5729099559700505.0.5855342720693115.0.592891483328904.0.5954556465497353.0.5773426962691122
+INFO:root:Logging results for AF220
+INFO:root:Orig_sim=0.5459333803756966, original=0.7682086148423201.0.799049481621472.0.773640053098862.0.7389619782005926.0.7240108479197774, ex=0.5720824891294117.0.5921227951746393.0.6074955395611311.0.6185455027769433.0.6214279174602123
+INFO:root:Logging results for AF1171
+INFO:root:Orig_sim=0.5246876724328694, original=0.8014740529365301.0.812787669641769.0.7963324060926243.0.7647153059877111.0.7479452339022328, ex=0.5391928269514125.0.5605891134409209.0.577556506794097.0.5890734025323064.0.59338787748993
+INFO:root:Logging results for AF811
+INFO:root:Orig_sim=0.5219799073525985, original=0.7415551325336991.0.7502784620878322.0.7200517496547869.0.6758943516151991.0.655620742761521, ex=0.5483713324616072.0.5819631170366238.0.6055584195512943.0.6181597342261597.0.6204818470098526
+INFO:root:Logging results for AF432
+INFO:root:Orig_sim=0.5861100688255028, original=0.7737195119951101.0.7799481558425603.0.7649117011521201.0.7355687938350801.0.7169098538509434, ex=0.6189101393692216.0.6494262871353925.0.6748638816304968.0.6916673272274257.0.6956618762760817
+INFO:root:Logging results for AF1763
+INFO:root:Orig_sim=0.5566895852116063, original=0.6894342032180131.0.7562946323493671.0.7587709259353729.0.7179529661479512.0.7010534756348391, ex=0.5546389649780125.0.5823051689778215.0.6011623646705697.0.5995328747427192.0.5948657053222547
+INFO:root:Logging results for AF435
+INFO:root:Orig_sim=0.5814740558181278, original=0.7879386191186732.0.7870625598710955.0.7793127594717637.0.7555063955987619.0.7397525206251249, ex=0.6031039763428097.0.6252892038612318.0.642371678796192.0.6529671856545479.0.6574567520552762
+INFO:root:Logging results for AF1764
+INFO:root:Orig_sim=0.5760145918421223, original=0.7866343702311079.0.7882293506548326.0.7698802616225917.0.7396699608400333.0.7236248711101906, ex=0.6101700819209215.0.6338058372453008.0.652604360358572.0.6634186507191254.0.6662381381034835
+INFO:root:Logging results for AF1799
+INFO:root:Orig_sim=0.5382088313542108, original=0.7992453308770465.0.7980190098296704.0.7666073628920991.0.7354933209224163.0.7171013197081963, ex=0.5590246172643938.0.5763532675494887.0.5870006682732486.0.5933438740723319.0.5923459358180069
+INFO:root:Logging results for AF631
+INFO:root:Orig_sim=0.5330034664278237, original=0.755578347763931.0.752357584524541.0.7344133183789753.0.7057430121120087.0.6941001473102251, ex=0.544779308247009.0.5702719397185021.0.5865723953993797.0.5938629555646958.0.595644789768574
+INFO:root:Logging results for AF1560
+INFO:root:Orig_sim=0.5950452662379688, original=0.7796038485728644.0.7877988912451492.0.7867463024309093.0.770995076609516.0.7540355329464411, ex=0.627681453249445.0.6452690413552541.0.6594032381869394.0.6646644568343092.0.6660729587019611
+INFO:root:Logging results for AF636
+INFO:root:Orig_sim=0.47474565844716904, original=0.5655989802104217.0.5537122448345467.0.5447067468589578.0.5209798506204399.0.5151518681284336, ex=0.43490082698412985.0.43858450848526714.0.4564520634333844.0.4493477154626662.0.44631903206910595
+INFO:root:Logging results for AF1558
+INFO:root:Orig_sim=0.5805811159401827, original=0.8152723556553293.0.8052014513892561.0.5898361520704206.0.5024246912584126.0.4834541923111944, ex=0.6067619653358031.0.6245854766992196.0.5276288116318358.0.47204883143116744.0.45693475908529707
+INFO:root:Logging results for AF1567
+INFO:root:Orig_sim=0.507302117856736, original=0.7060252977376184.0.7246357390209944.0.7063192954996026.0.6764948340371979.0.6567436893580662, ex=0.5188374901909393.0.5537800621763996.0.568503645957808.0.582223523251706.0.5882217576242933
+INFO:root:Logging results for AF609
+INFO:root:Orig_sim=0.5413696141518831, original=0.8040558610072014.0.7962324742263616.0.7699755535783872.0.7348232563368123.0.7159883690376209, ex=0.561208884922323.0.5834235915388294.0.6008746375333233.0.6118469495436725.0.6148210435789756
+INFO:root:Logging results for AF1365
+INFO:root:Orig_sim=0.547434156371633, original=0.789331726041966.0.7859678154772799.0.7791353094099677.0.6541176039900917.0.5946011691926327, ex=0.5612522478158427.0.5765174772415286.0.583096678034645.0.5538199582884016.0.5219459649292156
+INFO:root:Logging results for AF1954
+INFO:root:Orig_sim=0.5439501945489679, original=0.7564883550554059.0.7633218723914285.0.7153173360316872.0.6769506111605524.0.6673260448825773, ex=0.5652550115602606.0.590015595456023.0.5883812662772384.0.5879873502531733.0.5887216708449335
+INFO:root:Logging results for AF1362
+INFO:root:Orig_sim=0.54565384873283, original=0.7559187750190337.0.7613543891985654.0.7235102599901483.0.6693432180982551.0.6418412375281557, ex=0.5716982130780458.0.5861861331943965.0.5908706268541467.0.5638173677481851.0.5505380622763484
+INFO:root:Logging results for AF1953
+INFO:root:Orig_sim=0.5040916354556613, original=0.6863710893903194.0.6952121783021838.0.6631217227730233.0.6041232877860171.0.5823802040495466, ex=0.5380449691571006.0.5673298044586237.0.5736038458568475.0.5667997185162917.0.568070371601615
+INFO:root:Logging results for AF208
+INFO:root:Orig_sim=0.5448727662418379, original=0.7801639403986247.0.7806288215812799.0.7631899168877231.0.7325979783393338.0.7146771779928058, ex=0.5771254063821482.0.6019338062619003.0.6237777120738152.0.6365197047035407.0.6400480222990187
+INFO:root:Logging results for AF806
+INFO:root:Orig_sim=0.5689924069959534, original=0.7820646936243767.0.7467996085743046.0.7117576491264144.0.6845720605364599.0.6710008551367123, ex=0.5922351286657525.0.6042105323403711.0.6086787599901228.0.6065023871660099.0.6011778101123634
+INFO:root:Logging results for AF1166
+INFO:root:Orig_sim=0.5228041872355977, original=0.7336558529514333.0.738600156702436.0.7527536218558671.0.6783517592505056.0.6548982763714343, ex=0.5337637704243061.0.5467253837203992.0.5574264510556868.0.5442095339114867.0.5461806141814514
+INFO:root:Logging results for AF1991
+INFO:root:Orig_sim=0.5863479804299047, original=0.8038190026608442.0.7911364362308267.0.7628366552590228.0.7295791784667683.0.691575722178019, ex=0.6131346241123923.0.6334831054016913.0.6472037815784389.0.6523974186684653.0.6345329442598441
+INFO:root:Logging results for AF839
+INFO:root:Orig_sim=0.5163409392931201, original=0.783672597953661.0.7819293841501338.0.7643347375643881.0.7376934002409192.0.7224245786997905, ex=0.5401234949041035.0.5561557718612744.0.5678275724791298.0.5792247726650944.0.5832749633257731
+INFO:root:Logging results for AF1159
+INFO:root:Logging results for AF801
+INFO:root:Orig_sim=0.5446867619445971, original=0.7764797723156304.0.7813224642237585.0.7676398282553851.0.7381764585883298.0.717093651190854, ex=0.5654531351472186.0.5902105501730002.0.6077643478048121.0.6150874241576064.0.6157721080027532
+INFO:root:Logging results for AF1161
+INFO:root:Orig_sim=0.545265526984113, original=0.8053834645064913.0.7915346818872999.0.7707695300361964.0.7390517606339285.0.7164039594053824, ex=0.5698125663981908.0.5841496734738093.0.5933383602197418.0.5976278380654706.0.597515425358512
+INFO:root:Logging results for AF230
+INFO:root:Orig_sim=0.5378405395384033, original=0.7619668373185574.0.7565767308574513.0.7352890996823861.0.7042897970662046.0.6776887868717923, ex=0.5693011695378876.0.5928014687017494.0.609648771932565.0.6175342711216479.0.6130943841769809
+INFO:root:Logging results for AF1398
+INFO:root:Orig_sim=0.5647049427807646, original=0.7531814404237619.0.7498083932728884.0.7252193711825313.0.6953446149197795.0.6797355755185593, ex=0.6144279269962413.0.6376585833126627.0.6550668966133057.0.6614056335828321.0.6631127451617959
+INFO:root:Logging results for AF1559
+INFO:root:Orig_sim=0.5777378940358023, original=0.8048595498671612.0.7995365939242044.0.7005943796240078.0.6150504973967598.0.5587122685020538, ex=0.6029267391168472.0.617868253733393.0.6174591642321742.0.5684667359298078.0.5252370457858676
+INFO:root:Logging results for AF637
+INFO:root:Orig_sim=0.5745705256386576, original=0.8156825012266316.0.8120161521250737.0.790985669018155.0.7583646416360909.0.7386618276468472, ex=0.6025396850920007.0.6244659964026741.0.6398250289275685.0.6474409434546167.0.6502616105605005
+INFO:root:Logging results for AF608
+INFO:root:Orig_sim=0.553217756983573, original=0.7785472993847282.0.7865442346523616.0.7718485297750631.0.736666244162883.0.620051093977911, ex=0.5830585594028407.0.5982729442277152.0.6114547776899464.0.6193855401354746.0.5677925109792309
+INFO:root:Logging results for AF1566
+INFO:root:Orig_sim=0.5852447855097854, original=0.8014789253496075.0.7971713844739391.0.7737317052863594.0.6566608824562014.0.6518662008637165, ex=0.608510236278497.0.629853792745915.0.6481293268523395.0.624112624467004.0.62178224675437
+INFO:root:Logging results for AF1102
+INFO:root:Logging results for AF630
+INFO:root:Orig_sim=0.513696288534164, original=0.6582413983207315.0.6879169245300151.0.6988379446178045.0.619377528468238.0.5822087065451935, ex=0.5153766641053764.0.5437874109291424.0.5733938155596711.0.5561127205489571.0.5489007852964939
+INFO:root:Logging results for AF1798
+INFO:root:Orig_sim=0.5744500909740667, original=0.7864866382816954.0.792231961893505.0.7813736413459833.0.7556935532349339.0.740930906184229, ex=0.6027777372305.0.6275154366336078.0.6484752746794767.0.6632629508783633.0.6679908671519867
+INFO:root:Logging results for AF434
+INFO:root:Orig_sim=0.5313085497989268, original=0.7901009559337647.0.7840239204025125.0.7641064415561045.0.7316163446106675.0.7134350768523113, ex=0.5580878421136001.0.5845141041173358.0.6044123193192426.0.6138596648625428.0.6170469822895516
+INFO:root:Logging results for AF1765
+INFO:root:Orig_sim=0.5582709299536494, original=0.7726038656590705.0.7768020069175758.0.7353447075452767.0.7028118951099641.0.6870725225538151, ex=0.5751205204797133.0.5962052128372815.0.6064377033687908.0.6150587540496074.0.6179028704969444
+INFO:root:Logging results for AF433
+INFO:root:Orig_sim=0.5643056317214171, original=0.7916027865055892.0.7981697220129037.0.7746957188925104.0.7419902301763299.0.726873915376812, ex=0.5926387239665004.0.6084018170066715.0.6212923309610744.0.6311663608540007.0.633904408018846
+INFO:root:Logging results for AF1762
+INFO:root:Orig_sim=0.5386339649436844, original=0.7404581247553997.0.7405261763294054.0.7263652077529631.0.7044648002914636.0.6931618559002287, ex=0.5666240952363072.0.582388223900411.0.5948664361335109.0.6010230674006172.0.6039449023525124
+INFO:root:Logging results for AF800
+INFO:root:Orig_sim=0.4866687535507869, original=0.6659705720111622.0.6167833199299219.0.5580768918882592.0.5141937072133843.0.507142660589063, ex=0.49132762898991356.0.4962439410893649.0.49370172262768425.0.47614039527024404.0.4679243047152449
+INFO:root:Logging results for AF1160
+INFO:root:Orig_sim=0.553164510475234, original=0.7497153915278801.0.7553679087636285.0.7456300812113379.0.7270674183230742.0.7167367897999206, ex=0.5847868754590156.0.6029650583895334.0.6164752423386742.0.6249875454616783.0.6270986695245577
+INFO:root:Logging results for AF1997
+INFO:root:Orig_sim=0.539804118665512, original=0.7501120955406343.0.7361252303060116.0.7148001021897086.0.6096720595744127.0.532005210886684, ex=0.5632260258165775.0.5829815550426941.0.5987251646475011.0.5541075139242339.0.5131318245332323
+INFO:root:Logging results for AF1399
+INFO:root:Orig_sim=0.5359377593204301, original=0.81975324027882.0.759681502654921.0.6344297451892568.0.5739923727521855.0.524225918625127, ex=0.553042265688605.0.5556838406844545.0.5357666600941827.0.5005369755442927.0.4817334520824426
+INFO:root:Logging results for AF231
+INFO:root:Orig_sim=0.5494758098282676, original=0.7485221514345534.0.7471222840131414.0.7433281158728001.0.7201204291663285.0.7030055236256673, ex=0.5773493068738826.0.6000234452741946.0.6190167270104922.0.6291042475211559.0.6307889756709947
+INFO:root:Logging results for AF807
+INFO:root:Orig_sim=0.5360932299577421, original=0.7577087706798462.0.7805315994665903.0.7779591902412465.0.7477334763253193.0.7121308673205462, ex=0.5603533507432056.0.5790522027137607.0.593328487208883.0.6010847654887793.0.5987835239807296
+INFO:root:Logging results for AF1167
+INFO:root:Orig_sim=0.5329048663648345, original=0.8053581755851066.0.8065199633276426.0.7813913388539483.0.748730790718076.0.6948449991181193, ex=0.5540357901731964.0.5773225769367155.0.5955623878754577.0.6097986886024581.0.5983900840946839
+INFO:root:Logging results for AF236
+INFO:root:Orig_sim=0.5502107779199202, original=0.7446946464897765.0.7528601117206531.0.7682495615592756.0.6425775122179687.0.629576161042312, ex=0.5576960498359825.0.5772992985435378.0.5879467145205685.0.5706664646603992.0.5633067686639731
+INFO:root:Logging results for AF838
+INFO:root:Orig_sim=0.5291609573213791, original=0.7945837152680016.0.8081125515002018.0.7911100599702522.0.7565756938804449.0.638731856463782, ex=0.5486257467227479.0.5628396913190231.0.5738085855038695.0.580655452069427.0.5341326171303339
+INFO:root:Logging results for AF1158
+INFO:root:Orig_sim=0.5130575949529765, original=0.720920828665666.0.7176976570806023.0.6995047292490821.0.686903656651204.0.6388927903929456, ex=0.5224066282545713.0.5409083653526722.0.5597582830145115.0.5694656567023595.0.5649205566698278
+INFO:root:Logging results for AF1990
+INFO:root:Orig_sim=0.538903729089423, original=0.8090305823487721.0.7000045450218092.0.6520233489429335.0.6171455170741291.0.6045929520455006, ex=0.5592476709604625.0.5482215294007927.0.5464533350573912.0.5540607649084036.0.5548234307992045
+INFO:root:Logging results for AF1363
+INFO:root:Orig_sim=0.56777418328655, original=0.7858094226832315.0.7823024770377228.0.7575600555684469.0.7223368841371237.0.6911003422193004, ex=0.5949718132663286.0.6213168916438488.0.6408250501587727.0.6427255617239602.0.6328523576569837
+INFO:root:Logging results for AF1952
+INFO:root:Orig_sim=0.5764090957902966, original=0.7921437267157486.0.7906365780705658.0.7647141700032615.0.7168187118055139.0.6987163979395931, ex=0.593675420167676.0.6177172392855593.0.6303245592892351.0.6426807444780077.0.638034534406294
+INFO:root:Logging results for AF1364
+INFO:root:Orig_sim=0.5370805280213603, original=0.7530789749205011.0.6230291692742554.0.5977423786780923.0.559971929616868.0.5446245671131485, ex=0.540462937884709.0.5219179528405314.0.5085868957949694.0.48982590236661067.0.47697166788882495
+INFO:root:Logging results for AF1955
+INFO:root:Orig_sim=0.5689382053301592, original=0.7695768275502711.0.771639486695814.0.753960438086923.0.7233235945668038.0.707486975885677, ex=0.5945110741998693.0.6155335236480516.0.6324645043316383.0.6411238014034655.0.6452405168007186
+INFO:root:Logging results for AF1827
+INFO:root:Orig_sim=0.547966906232531, original=0.8126415739097376.0.8008296854143936.0.7674849746817718.0.7283644961968513.0.6169081115555597, ex=0.5605966504598044.0.574044320734706.0.5848333164390646.0.5913209119765527.0.5634690618546205
+INFO:root:Logging results for AF147
+INFO:root:Orig_sim=0.545276734738205, original=0.7627136331665239.0.7626726187548604.0.7243268925027012.0.6890500607192752.0.6356632560105177, ex=0.5700464230369844.0.5995875892557018.0.6177542269430468.0.6264458901763895.0.6018507639156443
+INFO:root:Logging results for AF1229
+INFO:root:Orig_sim=0.5334041149511518, original=0.7984978882817729.0.7949601146532449.0.7639177840143837.0.6976080080628436.0.676547527824904, ex=0.5597416101872548.0.580782801400696.0.5984270896516843.0.6001560289458622.0.6026172618809839
+INFO:root:Logging results for AF381
+INFO:root:Orig_sim=0.5469182681146596, original=0.7329397307893113.0.7256714552064888.0.7030550353459583.0.6760379752404898.0.6622333424306804, ex=0.5798833691806934.0.6005198761679047.0.6157479106864696.0.6244536096664456.0.6267308528095251
+INFO:root:Logging results for AF1216
+INFO:root:Orig_sim=0.5331177099821637, original=0.7280939273194452.0.7323656811902232.0.7135648063377474.0.6681694177015965.0.6472108301745538, ex=0.5617149561631946.0.590209240763492.0.6176995282183514.0.6305961827134744.0.621306989931643
+INFO:root:Logging results for AF1818
+INFO:root:Orig_sim=0.5775315259953097, original=0.8106189428265549.0.8054947740311934.0.773407227181985.0.7435921974451238.0.7120441280069111, ex=0.5927091310317497.0.6174656658177412.0.6283343091889645.0.6333522706442605.0.6389237264796209
+INFO:root:Logging results for AF178
+INFO:root:Orig_sim=0.5392203065494855, original=0.8054374430965754.0.8103286363681516.0.7970558098476855.0.6327351062546266.0.5884513526657801, ex=0.5600289448326728.0.5745227872955757.0.5870870741829973.0.5513244244723688.0.5154762833670837
+INFO:root:Logging results for AF386
+INFO:root:Orig_sim=0.585816177085304, original=0.76235598831065.0.7607304427145812.0.7430725771878454.0.7186237546352062.0.6965318090260663, ex=0.6018881650144614.0.621430363835385.0.6365223533460556.0.644000866644392.0.6438087020585156
+INFO:root:Logging results for AF988
+INFO:root:Orig_sim=0.5650510540751466, original=0.7557753306499388.0.7819696887904172.0.7689040790284588.0.7329834780426685.0.7142455026196918, ex=0.5885970640092124.0.6138526358551187.0.6323110056123685.0.6420521865326595.0.6451093849219334
+INFO:root:Logging results for AF140
+INFO:root:Orig_sim=0.5432425569273706, original=0.743962186047864.0.7456559775734025.0.711347511406574.0.6634828437309954.0.6414757912929869, ex=0.5850624430574839.0.6236571100430663.0.6527126511367807.0.6520275852064857.0.6446476980146336
+INFO:root:Logging results for AF1211
+INFO:root:Orig_sim=0.5802777811448395, original=0.8028345234882955.0.8000198311910767.0.7814945058348126.0.7413714037501183.0.7122807038022981, ex=0.6011815899052153.0.6228923563688481.0.6384261585665665.0.6523148997431816.0.6618121720625014
+INFO:root:Logging results for AF182
+INFO:root:Orig_sim=0.5480490459903667, original=0.7641819861401412.0.7707017833982682.0.7536357763741139.0.7233733802007009.0.7081128998798767, ex=0.569870184960077.0.5833913667783676.0.5980664310914099.0.6055587154825888.0.6069503864583067
+INFO:root:Logging results for AF344
+INFO:root:Orig_sim=0.5907513539389977, original=0.7837100161885767.0.7797673676408285.0.758814808181769.0.7288745998815237.0.7144236734969723, ex=0.6260559142288785.0.6538737062581473.0.6731842962698144.0.6846116384095833.0.6876286781657704
+INFO:root:Logging results for AF84
+INFO:root:Logging results for AF1015
+INFO:root:Orig_sim=0.5341215906956801, original=0.7551470527919869.0.7537045319107173.0.7398693926358066.0.7156104330879322.0.7017194864441333, ex=0.5619581172943939.0.5816656833228561.0.5961287057450367.0.6051125016567268.0.6070141498249477
+INFO:root:Logging results for AF70
+INFO:root:Orig_sim=0.5713993647459997, original=0.7500362443136851.0.7505033883745659.0.7360183038173308.0.707881806866775.0.6883266202667192, ex=0.5954944366143665.0.6201859094223018.0.639233485144178.0.6515735448869354.0.6573152626773382
+INFO:root:Logging results for AF48
+INFO:root:Orig_sim=0.5608261274923368, original=0.7955994343304593.0.7829720200202117.0.7501444020959918.0.7184226650790903.0.7010970732779475, ex=0.5866717874735319.0.6050765653880478.0.6129200120958088.0.6159721963936937.0.613204639307463
+INFO:root:Logging results for AF185
+INFO:root:Orig_sim=0.5647853657953422, original=0.7716361897911157.0.7699930533474905.0.7456955045565344.0.7149540028626334.0.6988573926548048, ex=0.5861320870240685.0.6011157252537135.0.6065600265101659.0.606499433382039.0.6041058820734765
+INFO:root:Logging results for AF77
+INFO:root:Orig_sim=0.5568453813797699, original=0.756055963934343.0.7573335437680013.0.7408564539480089.0.7083487031491774.0.6829032647667014, ex=0.584634042219944.0.6077748337862253.0.6245299748033399.0.623492830229517.0.6217001985970704
+INFO:root:Logging results for AF972
+INFO:root:Orig_sim=0.5585030729838302, original=0.7950190063805661.0.7934545277369437.0.7750277958537085.0.7242462406350324.0.6369307397809986, ex=0.5787258868964257.0.5891662436469378.0.5988045140406261.0.595790358242147.0.5719782212156662
+INFO:root:Logging results for AF1012
+INFO:root:Orig_sim=0.5602744861423501, original=0.8117614220271862.0.794733997771906.0.6202189086903673.0.5119259346022059.0.48347380100001597, ex=0.5806011562374631.0.5941763362077741.0.543581719574262.0.480879940749634.0.4676366192499713
+INFO:root:Logging results for AF1610
+INFO:root:Orig_sim=0.6055591588001431, original=0.792058884325812.0.7865422804628185.0.6423661131388082.0.5302428218606902.0.4895817806445151, ex=0.6147195275674039.0.6269696540381368.0.5909863097313304.0.5095606070286421.0.47092866556072205
+INFO:root:Logging results for AF541
+INFO:root:Orig_sim=0.5753717475452018, original=0.7826008652501361.0.7851878234000046.0.7672042770320123.0.7392501660335912.0.7240514924809682, ex=0.5948724949952793.0.6161418854608837.0.6321181497843277.0.6400970493817658.0.641354775383946
+INFO:root:Logging results for AF787
+INFO:root:Orig_sim=0.5721925902606683, original=0.7827514283027984.0.7761788874078267.0.7546324628952134.0.7232611231877688.0.7061451846392316, ex=0.5961987350762473.0.6229480163340528.0.6449849477243105.0.6599828273826452.0.6637604387769812
+INFO:root:Logging results for AF579
+INFO:root:Orig_sim=0.5699747181594407, original=0.789752667647932.0.7906963839526532.0.767668830679653.0.727546992067213.0.7055166560178306, ex=0.5934710927801526.0.6145253288142505.0.631669470127971.0.6463133517754864.0.6527459621137729
+INFO:root:Logging results for AF1617
+INFO:root:Orig_sim=0.6142708708979144, original=0.7392627684966474.0.8120238366783421.0.7807577116693215.0.723697135379309.0.7062513505389321, ex=0.6252754708900288.0.6561825072486623.0.6517088457443964.0.6495840581807057.0.6452107671632058
+INFO:root:Logging results for AF780
+INFO:root:Orig_sim=0.5727204198908861, original=0.8355909502165001.0.8285961571896809.0.8048635805750287.0.7513803869382282.0.713380945387342, ex=0.5919892250998066.0.6099698453325201.0.6213531095260313.0.616043800067417.0.606236582282509
+INFO:root:Logging results for AF1628
+INFO:root:Orig_sim=0.4999803631854056, original=0.7084730698024875.0.6889991822808281.0.6758758272629407.0.6501589920701351.0.6388908745916884, ex=0.514301358222744.0.5246401741146428.0.5393110117017496.0.5502825575911879.0.5529418560919557
+INFO:root:Logging results for AF546
+INFO:root:Orig_sim=0.5632489622185498, original=0.8053871925831175.0.8054467861771482.0.7836157566346947.0.7448951169996748.0.7259116839147559, ex=0.5819860854969839.0.6020679470366934.0.618085086501592.0.6254081899512954.0.6271082255343166
+INFO:root:Logging results for AF1413
+INFO:root:Orig_sim=0.5578270057451323, original=0.8175693031051487.0.8121212341745543.0.7853071755786312.0.7468133843671864.0.7258373829013264, ex=0.5819762717517912.0.603904285964502.0.6197678005222812.0.6293116660421592.0.6321531817352096
+INFO:root:Logging results for AF584
+INFO:root:Orig_sim=0.5933053785826429, original=0.7797534859306218.0.7897595741376603.0.7735664797877373.0.7003968285558306.0.683356789580162, ex=0.6215566078402982.0.6507196904186591.0.6692031947272697.0.6571701464435876.0.652781735823803
+INFO:root:Logging results for AF742
+INFO:root:Orig_sim=0.5182756413383615, original=0.7486758712762479.0.7226359133740976.0.6933393227097427.0.6586381382245284.0.643471374827349, ex=0.5395028776818859.0.5578947374763158.0.5672270351509235.0.5719077197235832.0.5749078297982358
+INFO:root:Logging results for AF1414
+INFO:root:Orig_sim=0.6105675722761605, original=0.8141776404690607.0.8274972836980373.0.8092990678108002.0.7698962645269413.0.7473967366983151, ex=0.6263599467758795.0.6460080491931119.0.663155091416357.0.6664102375365772.0.6583615044859067
+INFO:root:Logging results for AF745
+INFO:root:Orig_sim=0.5309434545272156, original=0.8136831710785444.0.8007677924269458.0.7696510508143115.0.7242068855543953.0.703707536072201, ex=0.5459496147536945.0.5666872143538623.0.5855579773945738.0.6002938044416734.0.6049394633754688
+INFO:root:Logging results for AF583
+INFO:root:Orig_sim=0.5887378940547777, original=0.7571310791850966.0.7714382422668521.0.7531549885795502.0.7106857584315845.0.6859511203218442, ex=0.6212083172276966.0.6460868929657594.0.6530842104994736.0.6429074385252542.0.6361481606403238
+INFO:root:Logging results for AF184
+INFO:root:Orig_sim=0.5662160103358554, original=0.7819396222137026.0.7893387194773407.0.7730185807383295.0.7455683153192951.0.7290405335605485, ex=0.5808648966389515.0.6016782307673306.0.6186722542422304.0.6309779144380329.0.6340819213155683
+INFO:root:Logging results for AF342
+INFO:root:Orig_sim=0.5588420444072321, original=0.7630302711428248.0.7586276819403474.0.7385882121431915.0.7044663440624248.0.6767679395173163, ex=0.5794329597770964.0.6004697796007046.0.618748666143414.0.6263765775084509.0.6227405551514696
+INFO:root:Logging results for AF49
+INFO:root:Orig_sim=0.5914204285969026, original=0.7558804861860281.0.7533893301440756.0.7403639290745385.0.7119951734559063.0.6942751366945782, ex=0.6277983970335409.0.6556926472717564.0.6800203438244147.0.6955298021396459.0.7008760230201044
+INFO:root:Logging results for AF973
+INFO:root:Orig_sim=0.5505337146400312, original=0.7702494051082424.0.7561179379185973.0.7322405769596502.0.6996648460974723.0.6748802139712878, ex=0.5683081930603043.0.5825055721562005.0.592540798584333.0.6017769532691409.0.6030443733901284
+INFO:root:Logging results for AF1013
+INFO:root:Orig_sim=0.5417668773383053, original=0.783412207556682.0.7920083984666898.0.7725748818840419.0.6708896659998276.0.6235625180907453, ex=0.5602302536267896.0.5833916799889497.0.6001776125057424.0.5821608560815817.0.5702533543794709
+INFO:root:Logging results for AF183
+INFO:root:Orig_sim=0.5123706574435749, original=0.7347047217942873.0.7432453558571049.0.7084464170181494.0.6103660510895664.0.5934807612406654, ex=0.5271177341745772.0.5592386610583865.0.5640622116706492.0.544463265528407.0.5426602708678137
+INFO:root:Logging results for AF974
+INFO:root:Orig_sim=0.5814009958759835, original=0.8133783236248844.0.8109381873856846.0.7917591258153536.0.7623425112358923.0.7463764020596003, ex=0.6085189966803898.0.6299810259920839.0.6447300506725516.0.6523972172753284.0.6544716928623382
+INFO:root:Logging results for AF1014
+INFO:root:Orig_sim=0.5245305981041362, original=0.7673202876083534.0.7410309794838411.0.6697247359512449.0.6015431714814224.0.5877974469769097, ex=0.5470242315121379.0.5581837483158928.0.5592655145059053.0.5389254197788415.0.5293386957451137
+INFO:root:Logging results for AF71
+INFO:root:Orig_sim=0.5416660359325377, original=0.7467316874559126.0.7703219575203389.0.7529171994333063.0.7159147845379881.0.6909586319539223, ex=0.5536133056784148.0.572963442610971.0.5864779851569538.0.5930212952270955.0.5939145943171745
+INFO:root:Logging results for AF141
+INFO:root:Orig_sim=0.578865019250007, original=0.8174569638924426.0.8179829753419358.0.7991916307195908.0.7696020281817891.0.748839433441793, ex=0.6035249050660448.0.6189982780054791.0.6269808254506679.0.628535234496235.0.6228971713636058
+INFO:root:Logging results for AF989
+INFO:root:Orig_sim=0.526248397907458, original=0.7717863940985891.0.7567590501067755.0.696869933152095.0.6609412694550834.0.6321199555235214, ex=0.5445275434148865.0.5684496028176987.0.5834369064053421.0.5835608422451942.0.5791155404261114
+INFO:root:Logging results for AF1210
+INFO:root:Orig_sim=0.5817169190684299, original=0.8117643342227817.0.811324589061762.0.7826991332462342.0.7441238776071851.0.7247690391163514, ex=0.6006437885792685.0.6170337635111278.0.6263707393659116.0.6232037810789715.0.6176083984295359
+INFO:root:Logging results for AF380
+INFO:root:Orig_sim=0.5513112518503199, original=0.7703885882684695.0.7835679378978474.0.765732550328754.0.7273924770762269.0.7044076138661226, ex=0.5721490205462749.0.5948175083633431.0.6117311282070016.0.6186421485217014.0.6107687879138456
+INFO:root:Logging results for AF1826
+INFO:root:Orig_sim=0.5257600598590285, original=0.8064777940017577.0.787588354356358.0.7586463722958459.0.6724180807678367.0.6344911878698046, ex=0.5503136263899214.0.5679281951980214.0.5804478223547055.0.5708218814985906.0.5564372739513674
+INFO:root:Logging results for AF146
+INFO:root:Orig_sim=0.5413510242757655, original=0.7699631777465964.0.768903997710319.0.7466955670563205.0.7162660676100239.0.7012834613182225, ex=0.5757648460279622.0.5928692401384308.0.60255157719247.0.6105148270919504.0.6134779280056812
+INFO:root:Logging results for AF1819
+INFO:root:Orig_sim=0.565013143727665, original=0.8152821504019695.0.8141748126232619.0.7864753792330951.0.7502596005282007.0.7326118489801967, ex=0.5903102057857827.0.618092955899068.0.6360522055457759.0.6441038698384683.0.6451421922032488
+INFO:root:Logging results for AF179
+INFO:root:Orig_sim=0.5487317507254651, original=0.7290235407324005.0.7594420643803647.0.692715562733766.0.6430066906137873.0.6219939400010217, ex=0.5647511422502872.0.594279757843458.0.5961522380435725.0.5824705949888604.0.5751672627872181
+INFO:root:Logging results for AF1217
+INFO:root:Orig_sim=0.5544953892682792, original=0.7494764273041076.0.7597076579167554.0.7482118249443861.0.7205912055573225.0.6528582871924233, ex=0.5860647726565319.0.6034824365237995.0.614498341522764.0.6234145653864159.0.6005018572670977
+INFO:root:Logging results for AF1415
+INFO:root:Orig_sim=0.5714954889810944, original=0.8134010453031918.0.7799987828613709.0.7417785553937769.0.7004720602309242.0.6886384529902164, ex=0.6001302817583193.0.6243636774263782.0.6350505425578805.0.6315150269397579.0.6304947368780616
+INFO:root:Logging results for AF582
+INFO:root:Orig_sim=0.5688120603015033, original=0.7555998595718784.0.7525443797783193.0.7423718050405409.0.7263121380734461.0.7119951841438787, ex=0.6011728729409042.0.6170721438463168.0.6272551624592647.0.6326609957311274.0.6219365972045536
+INFO:root:Logging results for AF744
+INFO:root:Orig_sim=0.5451013701537396, original=0.7947418276096814.0.7909380450551448.0.7478973417648072.0.7099293977842965.0.6936516780162671, ex=0.5680039283202617.0.5907758623193559.0.6007442706061576.0.6085107832614943.0.6092775411126903
+INFO:root:Logging results for AF1412
+INFO:root:Orig_sim=0.5607868434941087, original=0.7878042147134462.0.7931577276380309.0.7831244482925467.0.7618438001456905.0.74793663425418, ex=0.5844714846322571.0.6026670125602397.0.6174157640680397.0.6267393053011184.0.6290873060276821
+INFO:root:Logging results for AF743
+INFO:root:Orig_sim=0.578710043161707, original=0.775515363642017.0.7801921841781874.0.752727500641554.0.6897372288741958.0.6314752509736997, ex=0.5933908439006088.0.6127892291491962.0.6283369431427124.0.6043907871688551.0.5709692819113513
+INFO:root:Logging results for AF1616
+INFO:root:Orig_sim=0.5330172923201713, original=0.8094309089180157.0.8023555315855561.0.7845752698409147.0.7605182025354603.0.6848330349222875, ex=0.550555358881201.0.5611622664463852.0.5702917221109408.0.5757591332903619.0.5669113064273718
+INFO:root:Logging results for AF547
+INFO:root:Orig_sim=0.5500795041001965, original=0.7773208790128098.0.7562019944871788.0.7200120559689234.0.5632753510195144.0.5204392789717893, ex=0.5702289186105559.0.5867651061666117.0.5886421546054612.0.5144395244284508.0.48979202362600205
+INFO:root:Logging results for AF1629
+INFO:root:Orig_sim=0.6015498364841365, original=0.826495117526993.0.8295720474865269.0.8143463581377319.0.7848700784588956.0.768688717263963, ex=0.6213806906912192.0.642275664926626.0.6601860056979829.0.6726822376135702.0.6758332383762529
+INFO:root:Logging results for AF781
+INFO:root:Orig_sim=0.6215477557657318, original=0.8171613628185442.0.7827248754159951.0.7634756920248348.0.729321085924146.0.7045354440942332, ex=0.6442080880547342.0.6562249237202079.0.6662361241498639.0.6644715140031116.0.6566931896938323
+INFO:root:Logging results for AF786
+INFO:root:Orig_sim=0.551364658152607, original=0.7856768411767013.0.7921404872044157.0.7644522446715122.0.7317310091632819.0.7046235474172872, ex=0.5639104105315336.0.5808883552784095.0.5921594737676084.0.5994246265991735.0.5990379521209115
+INFO:root:Logging results for AF540
+INFO:root:Orig_sim=0.5558072533941171, original=0.8068543881682467.0.8016071501721923.0.7778803966293717.0.6654489872630465.0.6299014228896495, ex=0.5774750439168965.0.5943730439060737.0.6068555987872464.0.5780600581346156.0.5650898122210565
+INFO:root:Logging results for AF596
+INFO:root:Orig_sim=0.5918904113991502, original=0.8161183543901701.0.812202207432393.0.7906973622372538.0.7582474708729591.0.7104164668581667, ex=0.6187839632116846.0.6401949596768245.0.6533449118514999.0.6620124006513459.0.679416487034917
+INFO:root:Logging results for AF757
+INFO:root:Orig_sim=0.5672666424583653, original=0.6994308586369845.0.6663492558730225.0.6462760008592862.0.6327095728354057.0.6214809892875722, ex=0.5534741950788623.0.553578115710923.0.5590547159411887.0.5528815797170958.0.5482093054666907
+INFO:root:Logging results for AF591
+INFO:root:Orig_sim=0.508132311603406, original=0.7353780692634345.0.7384561877273429.0.7253115771791147.0.6684535941462686.0.6554576313669993, ex=0.5345082870092971.0.5529578063872941.0.5692155414608779.0.5788942808321836.0.5818489295673903
+INFO:root:Logging results for AF1406
+INFO:root:Orig_sim=0.5826061019981689, original=0.7877756221139353.0.7904123006340732.0.7721185881930309.0.738617593072821.0.7148577321489111, ex=0.6050257256679948.0.6258251621221242.0.6379635156665676.0.6381676065025416.0.6345303223217161
+INFO:root:Logging results for AF768
+INFO:root:Orig_sim=0.5062427921298088, original=0.6475579163562305.0.656258394203516.0.6763523445939977.0.6517355698919679.0.6263559816946002, ex=0.5215265547538716.0.5499704690144097.0.5819480630792471.0.5859903515875001.0.5763312467215546
+INFO:root:Logging results for AF553
+INFO:root:Orig_sim=0.564515517660949, original=0.7947524349938146.0.7838722319704918.0.7594693755303109.0.7343833923191371.0.7149614419864313, ex=0.5796085703643791.0.5969238275527669.0.6106710790432711.0.617547154961916.0.6150654747222127
+INFO:root:Logging results for AF795
+INFO:root:Orig_sim=0.5515247614369597, original=0.7906764367549671.0.786832469969832.0.723418012100832.0.6986556244808257.0.6861047246505327, ex=0.576047947721991.0.6006474743768514.0.6142973536576122.0.6282952446980558.0.6356983063567683
+INFO:root:Logging results for AF792
+INFO:root:Orig_sim=0.5302463040643957, original=0.7170943094361028.0.6915158733064458.0.6782041515819954.0.6515417570698462.0.6376378375436615, ex=0.5503537656763722.0.5595023717452858.0.5675023197786436.0.5687347939371784.0.5649227414254764
+INFO:root:Logging results for AF554
+INFO:root:Orig_sim=0.5905422581623238, original=0.762093811514037.0.7713735635741014.0.7606970943205512.0.7440290815166741.0.7149214928845179, ex=0.6048492222593056.0.6247084725240465.0.636045662014192.0.6439457856386116.0.6271506498560793
+INFO:root:Logging results for AF1605
+INFO:root:Orig_sim=0.5174966358211931, original=0.7559111291216792.0.7406937667268328.0.7078096885569826.0.6766131957405732.0.6592263802163839, ex=0.5432056794285658.0.5680892270207952.0.5942131121567679.0.6100103246914357.0.6152622646960458
+INFO:root:Logging results for AF62
+INFO:root:Orig_sim=0.5668973224812492, original=0.7696464673990354.0.7667659425762675.0.7431457240088326.0.7121647502612443.0.6970629240073166, ex=0.6085623090016986.0.6324749957123618.0.6503439891332421.0.657882687985199.0.6592972007297032
+INFO:root:Logging results for AF369
+INFO:root:Orig_sim=0.5397819887199629, original=0.7992313472726463.0.8068813647484498.0.7886017459856474.0.7505178234111506.0.7296654606283216, ex=0.5627089381815403.0.5796176670868933.0.5916169102709945.0.6007647630780663.0.6037362636422349
+INFO:root:Logging results for AF967
+INFO:root:Orig_sim=0.5750116376780702, original=0.7371625749396151.0.7359602904514765.0.7224985144324898.0.6980289021950844.0.6823048855928632, ex=0.6148902494432825.0.6396997975009037.0.6561970083679097.0.6660331856902336.0.66758791652293
+INFO:root:Logging results for AF1007
+INFO:root:Orig_sim=0.5640968706446676, original=0.818666930001818.0.8110075431626659.0.6974067334628451.0.5565694183349638.0.5424819501747693, ex=0.579024251334918.0.5970543283957649.0.5822689141782674.0.526087352074879.0.5135118717108992
+INFO:root:Logging results for AF958
+INFO:root:Orig_sim=0.5730742762936717, original=0.7636715253874881.0.76095217051259.0.7498684284949166.0.7296565559390848.0.7138967563801834, ex=0.5993080166323593.0.6158585359751648.0.6293335098794391.0.6371818304864231.0.6329842648525396
+INFO:root:Logging results for AF1038
+INFO:root:Orig_sim=0.5205067537778264, original=0.7509140266731742.0.749296488666694.0.7252477641770066.0.6848008955982562.0.6649268183081375, ex=0.5684650319145316.0.593758824852431.0.6122365747574182.0.623065113229485.0.62737769309561
+INFO:root:Logging results for AF356
+INFO:root:Orig_sim=0.5601929585492705, original=0.7883958870034019.0.7957966193789777.0.781353701019428.0.7539719933657084.0.7388172247609774, ex=0.5785028493321632.0.5999866433294031.0.6143733487491719.0.622321109069401.0.6239338060372986
+INFO:root:Logging results for AF960
+INFO:root:Orig_sim=0.580564466348358, original=0.7925124683081664.0.7753220267624097.0.7405621074419436.0.7065561599770603.0.6910311088435274, ex=0.6153700364120095.0.6412599212677902.0.6603207358607568.0.6747681068749168.0.6806392120447304
+INFO:root:Logging results for AF1000
+INFO:root:Orig_sim=0.5837453352802194, original=0.7520318482208337.0.7643979568732204.0.5911906625279583.0.5193175158115396.0.5022503528700611, ex=0.58262879978652.0.589895475123631.0.521079996770966.0.4738984071994543.0.461907779679092
+INFO:root:Logging results for AF65
+INFO:root:Orig_sim=0.5407339998106102, original=0.8040798041904497.0.801270269554688.0.7610791471290191.0.6637428928192531.0.5916253727495618, ex=0.5665429978021299.0.5912573606919783.0.6002823516410934.0.5825267974739909.0.5422260031752543
+INFO:root:Logging results for AF351
+INFO:root:Orig_sim=0.5493883528551812, original=0.7889540761350791.0.7913068162453903.0.765421629251521.0.6967140775965176.0.6708493519061922, ex=0.5667499309028879.0.5909224585507992.0.6089105967464482.0.5999272257516185.0.5976146353725814
+INFO:root:Logging results for AF197
+INFO:root:Orig_sim=0.5649397948640567, original=0.7525441861337089.0.7543273404613234.0.7412270995372682.0.7053357715860818.0.684760461186087, ex=0.5793606782500961.0.6001109525609177.0.6186381063518174.0.6208981469055533.0.6198689845656803
+INFO:root:Logging results for AF1204
+INFO:root:Orig_sim=0.5796768945135727, original=0.814569296350109.0.8174054169612242.0.7925205940084746.0.7486840977299748.0.7286296507785263, ex=0.6065884456182145.0.6277980640766364.0.6408336889931076.0.6429286972806691.0.6422950809818223
+INFO:root:Logging results for AF1835
+INFO:root:Orig_sim=0.6065765575580282, original=0.8088054735339864.0.8064542159595992.0.7703892512793478.0.7223162479011966.0.7006291919831341, ex=0.6317705527906384.0.6581781586761958.0.6696496521651464.0.666351269296229.0.6607420536898443
+INFO:root:Logging results for AF155
+INFO:root:Orig_sim=0.5392420827072626, original=0.7904959108365682.0.7817359467817755.0.7575762700453299.0.7169126683932133.0.6915747660200298, ex=0.5632930908189463.0.5884851243752237.0.6092033435712535.0.6149734655934077.0.6161595362078233
+INFO:root:Logging results for AF393
+INFO:root:Orig_sim=0.550847592292954, original=0.7851058491705155.0.7822799820343045.0.7624021451551387.0.7223797054996678.0.7040887853660172, ex=0.5781795255219451.0.5972392067352807.0.6083540197174991.0.6126743122663655.0.6150837180108092
+INFO:root:Logging results for AF1203
+INFO:root:Orig_sim=0.5271295327075332, original=0.7682991232856448.0.7765654140770558.0.7648425805758269.0.7329454692095335.0.7134710738815798, ex=0.5554138406838364.0.5743593376987822.0.5909215716283179.0.6037352396271415.0.6081308935880508
+INFO:root:Logging results for AF394
+INFO:root:Orig_sim=0.5598447494715172, original=0.777675389493487.0.7770698242610261.0.7490362405417409.0.712155838855287.0.6924757798056039, ex=0.5787867180445371.0.6004254092827677.0.6192157622255627.0.6223304330828539.0.619591992322901
+INFO:root:Logging results for AF1832
+INFO:root:Orig_sim=0.5707947778073605, original=0.8197805878667692.0.8163434379995286.0.7920796460663585.0.7569662276398108.0.7384825171042758, ex=0.5915476375129812.0.6075662958410551.0.6198632944419163.0.6257307788490977.0.6266822721129145
+INFO:root:Logging results for AF152
+INFO:root:Orig_sim=0.5585116762831778, original=0.7275651616696669.0.7444553046495112.0.7574933187516778.0.7197518925571281.0.6999484321179349, ex=0.5868072241613415.0.6092059163338771.0.6207237661942826.0.6321058733181192.0.6365351967636578
+INFO:root:Logging results for AF555
+INFO:root:Orig_sim=0.5165776361376658, original=0.5617348105920515.0.5233418964927604.0.49914745506533637.0.4919263233799791.0.48146895583567045, ex=0.5046073248025843.0.4765263731477098.0.46020615543410387.0.46441495242218284.0.46397860240744354
+INFO:root:Logging results for AF793
+INFO:root:Orig_sim=0.5509772076253886, original=0.8012827154526624.0.7873098443427229.0.7549199938616619.0.7209020661509905.0.6981684135471721, ex=0.5758000300726586.0.5884203025336965.0.597941426627187.0.6037164101505866.0.5976102524425154
+INFO:root:Logging results for AF552
+INFO:root:Orig_sim=0.5357644569962692, original=0.7596526419359981.0.7537918711911923.0.7279737328832585.0.6929807998872494.0.6721971486309247, ex=0.5580930822612685.0.5814103026133587.0.5989647051872692.0.6036247158898362.0.6021716471147301
+INFO:root:Logging results for AF1603
+INFO:root:Logging results for AF590
+INFO:root:Orig_sim=0.5733844148522192, original=0.7932896485372766.0.7766834257016871.0.7260090364699474.0.7015078632281307.0.6726256822837131, ex=0.5978936401335866.0.6166298344044573.0.6403473595435464.0.6509810990567902.0.6384995966086215
+INFO:root:Logging results for AF756
+INFO:root:Orig_sim=0.5785836649057351, original=0.7959031662077729.0.7872414974047377.0.763496111290864.0.7347592389387941.0.716958175631459, ex=0.5987413042186396.0.6234364013692381.0.6424163205698217.0.6502759803395911.0.6464700815072942
+INFO:root:Logging results for AF1407
+INFO:root:Orig_sim=0.479807162196606, original=0.7716772570391862.0.7668163426513801.0.7450231446086706.0.6816722217781512.0.6174733236454304, ex=0.5107665128807509.0.5298044938803089.0.5459233205429603.0.5448555022115843.0.5356154373538308
+INFO:root:Logging results for AF751
+INFO:root:Orig_sim=0.5527959380854829, original=0.7980357775050021.0.7931022266282853.0.768317087917425.0.7298969310946134.0.647078288318001, ex=0.5708532222425271.0.597084862175809.0.6212006482234902.0.6391613180968738.0.6094330193834031
+INFO:root:Logging results for AF1400
+INFO:root:Orig_sim=0.49649017140664825, original=0.7062168333163128.0.7314951133185712.0.699587700967672.0.6708553816413606.0.6563632569513386, ex=0.5132043457361432.0.5351021434992154.0.5430536809623535.0.5418916342482071.0.5418746279132703
+INFO:root:Logging results for AF1202
+INFO:root:Orig_sim=0.5403510411294249, original=0.79013276554303.0.7989991337851245.0.7706429756611152.0.7306501847920607.0.7117729901800263, ex=0.561735720216285.0.58337460613079.0.594166621878116.0.5995622664777218.0.594094636067501
+INFO:root:Logging results for AF1833
+INFO:root:Orig_sim=0.5974811794554106, original=0.7933751122250415.0.792077927510671.0.7715939618776414.0.6918397369327067.0.5640058795106929, ex=0.6292305397839156.0.6479094766373715.0.6616064990675504.0.6364893976124503.0.5378055763019947
+INFO:root:Logging results for AF153
+INFO:root:Orig_sim=0.548039257112792, original=0.7517387200623777.0.7542981296843573.0.7421224892231878.0.7209876750168641.0.7075896601026859, ex=0.5761754029331182.0.5961948398767891.0.6113309028729065.0.6201654729862218.0.6225144662870491
+INFO:root:Logging results for AF395
+INFO:root:Orig_sim=0.5691228409047925, original=0.8041047431887564.0.7901534430921147.0.7620915410216659.0.7321447456969997.0.7159090618235422, ex=0.5988308039947442.0.6170891423826531.0.6290612048666664.0.6314114646920429.0.6274483720681957
+INFO:root:Logging results for AF1205
+INFO:root:Orig_sim=0.594519934992293, original=0.8249041695313517.0.8289741194473272.0.8095012247512369.0.7791958528037749.0.7625599737940286, ex=0.6195704213964639.0.6439738756269904.0.6619720829775019.0.672074801786216.0.673836597172293
+INFO:root:Logging results for AF99
+INFO:root:Orig_sim=0.5858597380110518, original=0.8036791235969689.0.7778711783253763.0.7540042610948422.0.7225934669355952.0.704797046097875, ex=0.609073125998696.0.6415227854092685.0.6628452082312664.0.6716183833910311.0.6717028202785552
+INFO:root:Logging results for AF154
+INFO:root:Orig_sim=0.587024583378621, original=0.7800926928588475.0.7818804794082047.0.7653554700643029.0.736513035797798.0.7172605784807308, ex=0.6105516654205133.0.6366808334996926.0.6579412810973991.0.6730660184167601.0.6663521053796884
+INFO:root:Logging results for AF961
+INFO:root:Orig_sim=0.5586895358243485, original=0.7570615539765226.0.770753041417274.0.7547449015798433.0.7315607572605526.0.718643419142044, ex=0.5737126880123733.0.592277097125558.0.60755865021472.0.6161851644494168.0.6183437842854095
+INFO:root:Logging results for AF1001
+INFO:root:Orig_sim=0.5405610267976241, original=0.754479327811835.0.7705723029581105.0.7806880143703615.0.7477085390716433.0.7294717444603792, ex=0.5559689883348918.0.5775110630864531.0.6047591428396868.0.6194173501953798.0.6257241338597316
+INFO:root:Logging results for AF64
+INFO:root:Orig_sim=0.6189363860510787, original=0.799976035588152.0.7872097116769536.0.7376999476487948.0.7081501534509075.0.6925996424675033, ex=0.6452479221681754.0.6710753847255629.0.6576568589095141.0.6563010543708878.0.6519184965950623
+INFO:root:Logging results for AF196
+INFO:root:Orig_sim=0.6028310677984962, original=0.7950113001275515.0.7912541189937731.0.7734150830813705.0.5770603513635687.0.5296414284524514, ex=0.6199137527697306.0.6376948557263196.0.6522591650833025.0.5313105074880656.0.4998690356608324
+INFO:root:Logging results for AF350
+INFO:root:Orig_sim=0.5477946788322156, original=0.7902379433345486.0.7981537144279579.0.7818074632912433.0.7523299041092786.0.7326516453713342, ex=0.5723969300150035.0.5885286026386641.0.5988340829672055.0.6047170484450431.0.6084065149118095
+INFO:root:Logging results for AF63
+INFO:root:Orig_sim=0.5571491529003112, original=0.7390389137449859.0.7575461829281188.0.7296296261459226.0.6887574273748447.0.6593290360673948, ex=0.5803692427844326.0.6240062047763583.0.6437516857336626.0.6356647857585439.0.6259858586962613
+INFO:root:Logging results for AF1006
+INFO:root:Orig_sim=0.5652076770305712, original=0.7888481215148052.0.781158427063131.0.7555986309687684.0.7180475637624003.0.6842079123238326, ex=0.5934528655614315.0.6186440797673125.0.6362005207139495.0.6455007947269937.0.6305121264330437
+INFO:root:Logging results for AF368
+INFO:root:Orig_sim=0.5482453039022798, original=0.7739895644728448.0.7567920672741545.0.715166457733929.0.6852819834696947.0.6721450373453465, ex=0.5784730044514598.0.6027596039597843.0.6234755672907818.0.6364882461412539.0.6405808940552958
+INFO:root:Logging results for AF357
+INFO:root:Orig_sim=0.582090550740932, original=0.8068772207084476.0.7979471370017802.0.7766945059381797.0.7426434219307979.0.7227433711137091, ex=0.6101572758030565.0.633711310936668.0.651316249506632.0.6613715481430334.0.6634700852243944
+INFO:root:Logging results for AF1039
+INFO:root:Orig_sim=0.5560067867470238, original=0.8060945571411086.0.8044258424162408.0.7762850296399453.0.7408868031895451.0.7264949368273573, ex=0.5785688502318967.0.5885115074576355.0.5904838793734969.0.5871750742240321.0.5815652486757201
+INFO:root:Logging results for AF191
+INFO:root:Orig_sim=0.5161580529340932, original=0.5164036670154174.0.4811981379263452.0.45937428951396947.0.44429264842346244.0.4361993280486825, ex=0.4408209049650986.0.42753271537283943.0.4216858601113518.0.4184728508706022.0.420811893622632
+INFO:root:Logging results for AF814
+INFO:root:Orig_sim=0.5576087492800287, original=0.8071573030743943.0.8077689175518205.0.7929799746844063.0.7316439502948301.0.6887936906128002, ex=0.571208954898994.0.5913513622032148.0.6064044990062825.0.6009603260755847.0.587083178805504
+INFO:root:Logging results for AF1174
+INFO:root:Orig_sim=0.5799382315243995, original=0.7910866509737339.0.7973404301835852.0.7859994812085708.0.70757096149294.0.6891816364954367, ex=0.5984058012910557.0.6229229041857473.0.6452326163269513.0.6444000946810979.0.6476670051375676
+INFO:root:Logging results for AF222
+INFO:root:Orig_sim=0.5566312142450457, original=0.7544719952268298.0.7602973138755015.0.7450371111249545.0.7110023721759345.0.6899347716752819, ex=0.6007292647113766.0.6299113399164263.0.6414926442086862.0.6500426829038652.0.6512560893707712
+INFO:root:Logging results for AF1984
+INFO:root:Orig_sim=0.6132874685297464, original=0.7988637431679607.0.7876583802317918.0.7675479884516164.0.7395260314028768.0.7178142968109347, ex=0.6391194392925384.0.659215285743768.0.6724584672610692.0.6723801090742928.0.6619965360567042
+INFO:root:Logging results for AF813
+INFO:root:Orig_sim=0.5475524593994628, original=0.8042246420292894.0.8142480090081611.0.7994273562396229.0.7661747728707814.0.748461517663809, ex=0.5709011766926878.0.5922901092100309.0.6065645845445878.0.6140046060902543.0.6161837851129334
+INFO:root:Logging results for AF1946
+INFO:root:Orig_sim=0.5965389836862526, original=0.7345741246506305.0.7428782937419517.0.7106167148209611.0.6740436760601477.0.6627629735680012, ex=0.625060149195408.0.6528797937203342.0.642986526964381.0.6298439056545438.0.6254528790924464
+INFO:root:Logging results for AF1377
+INFO:root:Orig_sim=0.5252412679273616, original=0.6944846491365627.0.6994476063208985.0.6979390973587098.0.6778817534936882.0.6617048453242101, ex=0.5474002618663038.0.5676680333387659.0.5867009872385985.0.598441334581722.0.6005891661592021
+INFO:root:Logging results for AF1979
+INFO:root:Orig_sim=0.5537333323552237, original=0.7767978773876103.0.7742496730379096.0.757086329050252.0.7337884890994637.0.7140559402425461, ex=0.5675998170822972.0.5874490046162482.0.6018908631180019.0.6111895380925932.0.6100766452407487
+INFO:root:Logging results for AF1189
+INFO:root:Orig_sim=0.5743567000176992, original=0.8047743063925591.0.787498611761999.0.756837819302184.0.7093986996984357.0.6887845875360717, ex=0.6134726417900876.0.6342029132542418.0.6510819341639277.0.6643347718185778.0.667329477459643
+INFO:root:Logging results for AF1941
+INFO:root:Orig_sim=0.5662257222980195, original=0.7841869376315521.0.7791298603047948.0.7560215272732475.0.7152599235347027.0.6904566457991962, ex=0.5928675046079559.0.6156609332944775.0.635115858241445.0.6457165289165715.0.647769570589459
+INFO:root:Logging results for AF1572
+INFO:root:Orig_sim=0.5324584923957735, original=0.76909138147233.0.7890439693871351.0.7803201754934465.0.7433245800347587.0.7295210179168216, ex=0.553858171494153.0.568737500993956.0.5733965577551104.0.5798269794043658.0.5823398508519718
+INFO:root:Logging results for AF8
+INFO:root:Orig_sim=0.5644954457455156, original=0.800081061324824.0.7953249035604326.0.7726886971569246.0.7391889227695868.0.7207975970184913, ex=0.5842751336213258.0.6063456506489349.0.6205392799079964.0.6255400045703846.0.6262690904885636
+INFO:root:Logging results for AF623
+INFO:root:Orig_sim=0.5603507047051997, original=0.7700090253511774.0.7772164605313142.0.761995292403307.0.7381253838838345.0.7151979687015659, ex=0.5741657413645781.0.5973464194937635.0.6218059949338174.0.6314565593322999.0.637188985924447
+INFO:root:Logging results for AF1575
+INFO:root:Orig_sim=0.563918765680921, original=0.8077063343176732.0.7849623284744259.0.7603945320124161.0.7304355342596747.0.7108462714901594, ex=0.5883887457089857.0.6046855337935612.0.6215510376010811.0.6290975755164862.0.6269865407175762
+INFO:root:Logging results for AF624
+INFO:root:Orig_sim=0.5308172993988679, original=0.7309424077574181.0.7218799925860404.0.706676167150738.0.6957758548166549.0.6826414650742926, ex=0.5512080510494582.0.5805993339989911.0.6000735464457111.0.6161096661263821.0.6224928872492127
+INFO:root:Logging results for AF1771
+INFO:root:Orig_sim=0.5031593930473759, original=0.7158143641587423.0.683405381822892.0.6604872429329132.0.6201177981384981.0.5946329116273684, ex=0.5166911172288625.0.5342088639203778.0.5500371489481418.0.5549500651182188.0.5479686263966059
+INFO:root:Logging results for AF420
+INFO:root:Orig_sim=0.5037615159195403, original=0.740012635787421.0.7457880098171912.0.7319327269960033.0.7061162046766061.0.685366437863994, ex=0.5273138270409784.0.5466269179895724.0.5627098132793376.0.5738935653494135.0.5775822900877793
+INFO:root:Logging results for AF1588
+INFO:root:Orig_sim=0.4888723965348351, original=0.7721092436323028.0.7527272949382996.0.7152246263544141.0.6745161572668272.0.6555596819004313, ex=0.514198118704714.0.5389431111889963.0.5631464871550521.0.5830656283650851.0.589621822361683
+INFO:root:Logging results for AF418
+INFO:root:Orig_sim=0.5595906089844199, original=0.7964875197788612.0.8005256352234668.0.7839315161678121.0.7026702896444909.0.6870271506417162, ex=0.5744280557032185.0.5934371552118587.0.6073349216915274.0.5908879956942742.0.5907097484560965
+INFO:root:Logging results for AF1776
+INFO:root:Orig_sim=0.5477506357312149, original=0.7859203801369673.0.7846359988997826.0.7510322767324228.0.7111837308431067.0.6722266046276782, ex=0.5731867939571978.0.5949497659005482.0.6107533195958753.0.623103874697302.0.6116627160964115
+INFO:root:Logging results for AF1749
+INFO:root:Orig_sim=0.5350114557307114, original=0.7626335567066329.0.7565453347953931.0.7330208282163607.0.7108922405576513.0.6904187270233698, ex=0.5511087173897625.0.5739545583517874.0.5916086511648597.0.6040235223639178.0.601355496552287
+INFO:root:Logging results for AF427
+INFO:root:Orig_sim=0.5284868027875821, original=0.8000664287825993.0.802603173571219.0.7842683903629313.0.7527825234765619.0.7351546580751104, ex=0.5457229103749603.0.5602887874412218.0.5748388473201724.0.5858294758656555.0.5897295798407107
+INFO:root:Logging results for AF1940
+INFO:root:Orig_sim=0.5647190139644305, original=0.7943298452712758.0.7971440041712864.0.7808508753205224.0.752901974788557.0.7336931671250015, ex=0.5842923600928668.0.6051898342446113.0.6220687155467018.0.6336414617610794.0.6381563169655159
+INFO:root:Logging results for AF1188
+INFO:root:Orig_sim=0.5665413175074009, original=0.7874044933099582.0.7858189119208481.0.7626695889184821.0.7242307257810815.0.7034920678065207, ex=0.5949259986286303.0.6153946816390966.0.631010143892749.0.6430648688485169.0.6479538192312913
+INFO:root:Logging results for AF1371
+INFO:root:Orig_sim=0.553738389195253, original=0.8290742203602003.0.8188591118208043.0.6989461716673673.0.6150638276215771.0.5780466703231716, ex=0.5789322730049816.0.5943089953980485.0.588646988375726.0.5535604456074502.0.5283175166378199
+INFO:root:Logging results for AF1349
+INFO:root:Orig_sim=0.5662642507972825, original=0.7832499241705732.0.7769415414931319.0.7535192487912159.0.720999085167168.0.6973458670915867, ex=0.5892825338879394.0.6164952445772579.0.6401150133376513.0.6539294100462613.0.6514989709444801
+INFO:root:Logging results for AF1947
+INFO:root:Orig_sim=0.5203113562037115, original=0.7506247125343103.0.770362508776691.0.7668169178128484.0.7320753903993875.0.7106968759354553, ex=0.5357457055756667.0.5617329979222184.0.5873588241042378.0.6085234872523984.0.6164671994859162
+INFO:root:Logging results for AF1978
+INFO:root:Orig_sim=0.5451593125332949, original=0.7399814823000321.0.5434485252259592.0.47601587913737214.0.45030020907187956.0.4349945838686769, ex=0.5494055075382506.0.4800968826583752.0.4250871204419126.0.4147689302626654.0.4103460885523195
+INFO:root:Logging results for AF1376
+INFO:root:Orig_sim=0.5573282051306646, original=0.8121003138233474.0.7999825130036413.0.7663137699968597.0.6395176613716793.0.5648235926372907, ex=0.5783519223676499.0.6013310617888191.0.6167117213568688.0.5745353114747042.0.5293870898907378
+INFO:root:Logging results for AF1985
+INFO:root:Orig_sim=0.6114226016105039, original=0.8182796376081244.0.8145000512545527.0.7910923655691385.0.6960153095352924.0.6703922346154324, ex=0.643373097815621.0.6633738239670658.0.6762323076338328.0.6395427098609402.0.6243172549496957
+INFO:root:Logging results for AF223
+INFO:root:Orig_sim=0.5520150575868548, original=0.7968658105043271.0.7897151331723569.0.7639023642298195.0.7260942309281959.0.7072870501563621, ex=0.5803520641116475.0.6062666837052003.0.6261465499680977.0.6374146172658456.0.6400826996935113
+INFO:root:Logging results for AF812
+INFO:root:Orig_sim=0.5420450386727128, original=0.7105591118869423.0.7163782414574595.0.6604924234545106.0.637932967017452.0.6170075163260446, ex=0.5550129287326736.0.5781345262290062.0.5786821010360895.0.5854095437332018.0.5814572484903637
+INFO:root:Logging results for AF1172
+INFO:root:Orig_sim=0.5715260900154959, original=0.7947509551446178.0.7832090856429265.0.7017501129523297.0.5517101495161981.0.5274316221152534, ex=0.5881345642392316.0.6118023640253266.0.6022076159907508.0.5202854204364362.0.5090566005465123
+INFO:root:Logging results for AF224
+INFO:root:Orig_sim=0.5715344896168478, original=0.7562848015500684.0.7641187386203091.0.7558245438497329.0.7296348310694157.0.712880169279314, ex=0.5920814173009531.0.6158148049823623.0.6342749490571316.0.6464555888187139.0.6486959919708049
+INFO:root:Logging results for AF1982
+INFO:root:Orig_sim=0.48920995335396816, original=0.72186073431173.0.7038095533261662.0.6272495896224484.0.5675347922060515.0.5524143543462602, ex=0.4994195661951528.0.5212631870682813.0.5202655003256158.0.5237614699767233.0.5313854535421818
+INFO:root:Logging results for AF815
+INFO:root:Orig_sim=0.5409289854895235, original=0.73114564755904.0.7351652077660459.0.7037639067144568.0.6501159443240939.0.629727446424043, ex=0.5669770263652806.0.6012121085445146.0.6265517850874083.0.624199371357003.0.6241656914821867
+INFO:root:Logging results for AF1175
+INFO:root:Orig_sim=0.5491620250796202, original=0.7693499514938432.0.7663925671056676.0.7697054343069882.0.7419996508223073.0.7236237164841034, ex=0.5729935420695625.0.5927283104060629.0.6168736489053858.0.6291340369195473.0.6268728992298768
+INFO:root:Logging results for AF1777
+INFO:root:Orig_sim=0.5610502777003558, original=0.8126003158840983.0.8087757078295605.0.7808022450357285.0.7399524061292709.0.7202279049367002, ex=0.5834254423551358.0.6015867967278924.0.6156637505326471.0.6233107246069033.0.6235314545507477
+INFO:root:Logging results for AF419
+INFO:root:Orig_sim=0.5546591011567713, original=0.8060626439379587.0.8120132689888919.0.7949580518323742.0.7628119309670294.0.7457642428872816, ex=0.5743884790006288.0.590809386154948.0.6023165403925104.0.6097986337718676.0.6125697023871668
+INFO:root:Logging results for AF426
+INFO:root:Orig_sim=0.5090110539514057, original=0.7691368517969875.0.70657538146828.0.6753270661933636.0.6288611769937799.0.6075667646044798, ex=0.53363250062839.0.5343803440867215.0.5512148374917605.0.5416426787948353.0.5279244390996981
+INFO:root:Logging results for AF1748
+INFO:root:Orig_sim=0.5764599982266949, original=0.7526258791217121.0.7457170391224562.0.7311180646794679.0.7095073617476865.0.6979348530102283, ex=0.6113204849043011.0.6331924486282376.0.653981575640178.0.6691180308369097.0.6732294036394447
+INFO:root:Logging results for AF1770
+INFO:root:Orig_sim=0.5536937161783677, original=0.7387654469515637.0.7487349829548781.0.741984006549766.0.7236275670104698.0.7137674074641955, ex=0.5761018330670823.0.5999078557686516.0.6159419250647904.0.6265615453478198.0.6295765688086953
+INFO:root:Logging results for AF1589
+INFO:root:Logging results for AF421
+INFO:root:Orig_sim=0.5389454262522749, original=0.7685769599211801.0.755785136593822.0.7161131756436289.0.6856698609866174.0.6273361549320658, ex=0.5694786647973025.0.5897954223856444.0.6084443261217202.0.6210352542644828.0.5907079689553916
+INFO:root:Logging results for AF1574
+INFO:root:Orig_sim=0.5124569292632192, original=0.713180423087124.0.7090548176531645.0.6381028594707293.0.5963541837580372.0.571294811269781, ex=0.536251935444697.0.556577745057758.0.5538898602680326.0.5341477802431298.0.523553928166104
+INFO:root:Logging results for AF625
+INFO:root:Orig_sim=0.5653949115565565, original=0.7689745651186769.0.7768972066544227.0.7634122201752236.0.737138579549668.0.7162164423293133, ex=0.5899898499698404.0.6063580135443657.0.6115997557740614.0.6125720792022155.0.6097131105106838
+INFO:root:Logging results for AF1573
+INFO:root:Orig_sim=0.562023054552697, original=0.7682713479970129.0.7704367564407449.0.7548961175555572.0.7258410146607933.0.7122975212541865, ex=0.5856389916446024.0.6070825993149888.0.6244925667495512.0.6364494614704933.0.6417227663901993
+INFO:root:Logging results for AF279
+INFO:root:Logging results for AF622
+INFO:root:Orig_sim=0.6240791770824687, original=0.7889007674447842.0.7872100692199465.0.5228596098987239.0.4564654760394878.0.45351051934012004, ex=0.6303662137449447.0.6533360670959422.0.4992413487923659.0.45247016630853226.0.4501067677958452
+INFO:root:Logging results for AF9
+INFO:root:Orig_sim=0.5614836316050321, original=0.8015954717957884.0.804688242448918.0.7874087221416071.0.7570982777143872.0.7372281064818941, ex=0.5817948652481344.0.5976910004781155.0.6066194068742602.0.6123744798920511.0.6132710813202493
+INFO:root:Logging results for AF542

@@ -56,20 +56,24 @@ class FaceAlign:
 
             # Convert the BGR image to RGB before processing.
             results = face_mesh.process(cv2.cvtColor(face, cv2.COLOR_BGR2RGB))
+            if results.multi_face_landmarks:
+                for face_landmarks in results.multi_face_landmarks:
 
-            for face_landmarks in results.multi_face_landmarks:
+                    readable_landmarks = np.array([(p.x*face.shape[1], p.y*face.shape[0])
+                                                   for p in face_landmarks.landmark])
+                    landmarks.append(readable_landmarks)
 
-                readable_landmarks = np.array([(p.x*face.shape[1], p.y*face.shape[0])
-                                               for p in face_landmarks.landmark])
-                landmarks.append(readable_landmarks)
+            landmarks_target = []
 
-        landmarks_target = np.int32(landmarks[0])[np.array(FACE)]
-        src_mask = np.zeros((face.shape[0], face.shape[1]), dtype=np.uint8)
-        cv2.fillPoly(src_mask, [landmarks_target], (255, 255, 255))
+            landmarks_target = np.int32(landmarks[0])[np.array(FACE)]
+            src_mask = np.zeros(
+                (face.shape[0], face.shape[1]), dtype=np.uint8)
+            cv2.fillPoly(src_mask, [landmarks_target], (255, 255, 255))
 
-        dst = cv2.bitwise_and(face, face, mask=src_mask)
+            dst = cv2.bitwise_and(face, face, mask=src_mask)
 
-        cv2.imwrite('tmp/fc.png', dst)
+            cv2.imwrite('tmp/fc.png', dst)
+
         return landmarks[0], face, landmarks_target
 
     @staticmethod
@@ -86,7 +90,7 @@ class FaceAlign:
 
         sshape = sshape.reshape(1, -1, 2)
         tshape = tshape.reshape(1, -1, 2)
-
+        print(len(sshape[0]))
         good_matches = [cv2.DMatch(i, i, 0)
                         for i in range(len(sshape[0])-10)]
 

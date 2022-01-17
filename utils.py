@@ -9,6 +9,7 @@ def alpha_blend(layer1, layer2, gamma, ldmrk_src):
         layer1, ldmrk_src)
     temp_face, persistent_eyes, temp_lips = generate_persistent_mask(
         layer2, ldmrk_src)
+
     layer1 = (layer1 - temp_eyes)+persistent_eyes
     layer2 = (layer2-temp_face)+(persistent_face)-temp_lips+pers_lips
 
@@ -18,11 +19,11 @@ def alpha_blend(layer1, layer2, gamma, ldmrk_src):
     return blend
 
 
-def laplacian_blend(layer1, layer2, gamma):
-    A = (1-gamma) * layer1
-    B = gamma*layer2
+def laplacian_blend(layer1, layer2, gamma1, gamma2):
+    A = gamma1 * layer1
+    B = gamma2*layer2
 
-    blocks = 5
+    blocks = 2
     # generate Gaussian pyramid for A
     G = A.copy()
     gpA = [G]
@@ -68,21 +69,6 @@ def laplacian_blend(layer1, layer2, gamma):
     return ls_
 
 
-def test_blend(layer1, layer2, gamma, ldmrk_src):
-    mean, std = layer1.mean(), layer1.std()
-    mean1, std2 = layer2.mean(), layer2.std()
-    mask_persistent = generate_persistent_mask(layer1, ldmrk_src)
-    mask_temp = generate_persistent_mask(layer2, ldmrk_src)
-
-    # layer2 = (std/std2) * layer2
-    layer2 -= mean
-    layer2 *= std2
-    blend = cv2.addWeighted(
-        layer1, 1-gamma, layer2, gamma, 0.0)
-
-    return blend
-
-
 def get_detail_layer(layer, size):
     smooth = cv2.bilateralFilter(layer, size, 100, 100)
 
@@ -94,15 +80,14 @@ def skin_detail_transfer(layer1, layer2, gamma1, gamma2, ldmrk_src):
         layer1, ldmrk_src)
     temp_face, persistent_eyes, temp_lips = generate_persistent_mask(
         layer2, ldmrk_src)
+
     layer1 = (layer1-temp_eyes) + persistent_eyes
+
     layer2 = (layer2-temp_face) + (persistent_face)-persistent_eyes
 
-    blend = cv2.addWeighted(
-        layer1, gamma1, layer2, gamma2, 0.0)
+    blend = laplacian_blend(layer1, layer2, gamma1, gamma2)
 
-    # blend[blend > 255] = 255
-    # blend[blend < 0] = 0
-
+    blend[blend < -67] = -67
     return blend
 
 
@@ -135,7 +120,7 @@ def generate_persistent_mask(layer, landmarks_source):
     face_mask = cv2.bitwise_or(cv2.bitwise_or(
         left_eye_mask, right_eye_mask), mouth_mask)
     eyeshadow_mask = cv2.bitwise_or(left_eyeshadow_mask, right_eyeshadow_mask)
-    cv2.imwrite('tmp/dst.png', lips_mask)
+    eyeshadow_mask = cv2.GaussianBlur(eyeshadow_mask, (9, 9), 0)
 
     return face_mask, eyeshadow_mask, lips_mask
 
@@ -154,16 +139,6 @@ def prepare_mask(layer, src_mask):
 def transform_with_mask(mask_points):
     def wrapper(transformer, *args): return transformer(*args, mask_points)
     return wrapper
-
-
-def image_stats(image):
-    # compute the mean and standard deviation of each channel
-    (l, a, b) = image
-    (lMean, lStd) = (l.mean(), l.std())
-    (aMean, aStd) = (a.mean(), a.std())
-    (bMean, bStd) = (b.mean(), b.std())
-    # return the color statistics
-    return (lMean, lStd, aMean, aStd, bMean, bStd)
 
 
 def laplacian_pyramind(A, B, m, num_levels=4):
