@@ -2,7 +2,6 @@ import numpy as np
 import scipy.spatial as spatial
 import cv2
 from matplotlib import pyplot as plt
-from test3 import TRIANGLES
 
 
 def bilinear_interpolate(img, coords):
@@ -91,11 +90,6 @@ def warp_image(src_img, src_points, dest_points, dest_shape=(250, 250), dtype=np
     rows, cols = dest_shape[:2]
     result_img = np.zeros((rows, cols, num_chans), dtype)
     delaunay = spatial.Delaunay(dest_points)
-    plt.triplot(src_points[:, 0], src_points[:, 1], TRIANGLES)
-    plt.plot(src_points[:, 0], src_points[:, 1], 'o', markersize=2)
-    plt.imshow(src_img[..., ::-1])
-    plt.axis('off')
-    # plt.show()
     tri_affines = np.asarray(list(triangular_affine_matrices(
         delaunay.simplices, src_points, dest_points)))
     result_img = process_warp(

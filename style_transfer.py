@@ -180,7 +180,6 @@ class StyleTransfer:
             if curr_opt == "--path":
                 path = curr_arg
 
-        print(path)
         print(
             f"Transfering styles from {test_ref} to {test_src} with alpha={alpha} and gamma={gamma}.")
         self.update_face(test_src)
