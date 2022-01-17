@@ -61,7 +61,6 @@ class RealtimeTransfer():
         while True:
             _, image = self.cap.read()
             isMoving = self.detector.detect(image)
-            print(self.B, self.G)
             b = self.B / 100
             d = self.G / 100
 
